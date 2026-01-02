@@ -1,0 +1,24 @@
+curl 'https://www.facebook.com/api/graphql/' \
+  --compressed \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br, zstd' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'X-FB-Friendly-Name: FBYRPTimeLimitsEnforcementQuery' \
+  -H 'X-FB-LSD: arwOdnd1rwKryUEOZRKm0Q' \
+  -H 'X-ASBD-ID: 359341' \
+  -H 'Origin: https://www.facebook.com' \
+  -H 'Sec-GPC: 1' \
+  -H 'Alt-Used: www.facebook.com' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.facebook.com/marketplace/edmonton/search?query=impreza%20wrx%202008' \
+  -H 'Cookie: datr=gaROadi6gZcpjO07VMeLXqsV; sb=gaROaVMYEQjevC1JjOLReIal; wd=1719x270; c_user=100080415237651; fr=1p6gsxDU7rlFf3E6g.AWfhqWzZABLGe-zVKe9VcgcwvZD3e3wzbLZyVvfVbHJHuRYH2Zw.BpT76m..AAA.0.0.BpT76m.AWcal5m50e8pVXjFXjjnXeJ2JAQ; xs=30%3A8I_E4oj02oEbxw%3A2%3A1766761617%3A-1%3A-1%3A%3AAcyq6b2NxHLUCJqclAmU8Gx74BNAcoawXpdH6_ek2FQ; presence=C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1766833835885%2C%22v%22%3A1%7D; dpr=1; ps_l=1; ps_n=1' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'DNT: 1' \
+  -H 'TE: trailers' \
+  --data-raw 'av=100080415237651&__aaid=0&__user=100080415237651&__a=1&__req=3&__hs=20449.HCSV2%3Acomet_pkg.2.1...0&dpr=1&__ccg=GOOD&__rev=1031491866&__s=e23un6%3A53bdkw%3An8t36k&__hsi=7588495889468686909&__dyn=7xeUjGU5a5Q1ryaxG4Vp41twWwIxu13wFwhUKbgS3q2ibwNw9G2Sawba1DwUx60GE3Qwb-q7oc81EEc87m221Fwgo9oO0n24oaEnxO0Bo7O2l2Utwqo5W1yw9O7Udo5qfK0zEkxe2GewGw9a2SU4i5oe8cEW4-5o4q3y261eBx_wHwfC2-awLyESE7i3C1jg2cwMwrUK2K2WEjxK2B08-269wr86C13xecwBwWzUlwEKufxamEbbxG1fBG2-2K0E8461wweW2K3abxG6E2Uw&__csr=gB2W2t8Yt7Or2tRd5Sy_jvFWllWZN4rsy2kttp3ieF56FFEzV5GBnrb8AQBZj64eKiJWi8y4ihRAWAlWiExGOqmXrCWiCHKuppJ5QGAxmU-HyFEGGGLxJ2-Ehg-Vda9AHxalpomoOmXGdAyVoGbKVuimXDyErzEyfXG8ge_zp9KiqcBK7EnwVgsCAzUnxO18wFzUhxicwOxi1axu5UlCwQwGx21mwZDxu4EkwCxaWzoWErwGDz88Ee8Cq68y1-z85Gq8z8nwzDx14xu3e1cCAyU46q7Wzrxu9zUf8661pBwsoO1Iw8R7wyw9u1ewrE2Fw7Km0ju0ip0h8logwh8vwdq0k23W7oe8yax27A6oSK2i3C2afzU9V87a01quw0xmK029F4UCbo13o0_u00OIE2DwAg0Hdw2780FUM0Rlwg83fS0QE082307ww36E0mrC9w14e06yE1u80bSQ1iK098a9yE0Au0vm0sG06hUnw1Y2049U7Tg0hOyo0Ii04D8&__hsdp=l2s898g799448qeiACCCwwoiF2aNqp22asWiskFaREgNRqegycMAkggOq1e8Bpt5iEg8cDAOEOlgyGEBBffKA8vA49ckx2d9k4v2An4xoozNQs8R6Pggn9fNv7K9i9dr8t7evhO2olyp8Oh0xBChKbCKF8yfykrDvQ4mS2--i5kVxoDy4mFitUoIPKN0RFnP9gCJn4gWF555mkkacO8ayWjGkMEOD4469O6FkGgDzFEJQmVVoSmeAxbUNGcwFG9V5LzU9t2-dHB50AAyTgOcx55wkojytkAaCDyEgiDBx62W8G58x0Vxl5AcazEjxi22lS58CGVU8bF3cop6DAyUkhOlixyXo4-6j0NwL85XjQBxW3t0-honxKi2K9Kh6wrqwn8cEjK291yEy2C799K1FwqVoS9Gqt0wo30GueBwvU6-0uycykA0Q835e2ngbE18Elwai1Kwr8Rd3E1Xo19U2Gw5kwmEf83Zye0ZE3Gw920mC0Fo3Mw2e81kU1jEqw12K2i1fw2ZE1882wwno5-0DE6q6U4-0OE4208Yw5Zw7wBw2y8c80Hu0uu09ow7Sw6rw&__hblp=05bwUw4czEG2afQ0oSbw2ro5y0vm6oG2e482ow9S5o34wyw7Aw8i0zU17U766EW260MEGewPwko6-0iO0pCdg39w5Yxm0ka3S2a0xE1sE0Xe0MoeUzwcG2K0FU7q15w9-0oq0AE5S08NCw9SE661gwg813oqw4_w4xwcGfweW2i1fwJxO0aHwgo3uwa23Sex21vwwwvo6q6UtwNwcG10wt81xUfU2VVob9o28w4wwgEozEtzokxe0Ao-1Aw67gbV81ZU2Wwgo1Fo2rw820So660R83WwCw6rw6qw&__sjsp=l2s898g799448qeiWqri4jC4GgyImCgwyDeADacHmPJEgBEV28CMAkggOq1e8Bpt5iEg8cDAWicBk8BFdDbfKA9nA49dP8gzil24QnE9Nsi5xyf7hMzkrd11sA_5YuUB8z8sxQsVZ782C5Ea8sCKESfyp-8nQ4m3mm2O6poww15awCxGfxm2ObxC2zwlum0BobUhho6m2m2udwqE6OewqECnwEKAcYifwnU0RR0jE8pK0Worg86&__comet_req=15&fb_dtsg=NAfuR43sn_QGjcjH9q5pJF2MVj8yh2nRO4Ia7ZhyO4q-ysLT8FZkYag%3A30%3A1766761617&jazoest=25434&lsd=arwOdnd1rwKryUEOZRKm0Q&__spin_r=1031491866&__spin_b=trunk&__spin_t=1766834382&__crn=comet.fbweb.CometMarketplaceSearchRoute&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=FBYRPTimeLimitsEnforcementQuery&server_timestamps=true&variables=%7B%7D&doc_id=25203298649264493' \
+  | jq > output2.json

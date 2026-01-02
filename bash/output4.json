@@ -1,0 +1,14 @@
+{
+  "data": {
+    "xfb_youth_regulatory_config_platform": {
+      "query_configs_by_handler": []
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1766839346527,
+      "time_at_flush_ms": 1766839346545
+    },
+    "is_final": true
+  }
+}

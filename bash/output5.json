@@ -1,0 +1,3198 @@
+{
+  "data": {
+    "marketplace_search": {
+      "feed_units": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25381077508214244",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25381077508214244\",\"top_level_post_id\":\"25381077508214244\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25381077508214244,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "676695985397696",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/604900774_1492380771835173_1921179563712372938_n.jpg?stp=c63.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=2GGlPdJI20QQ7kNvwHnZPET&_nc_oc=AdkQD3GOYaW6flGmKnS2rv-Lwpr8_grv1cNI4OhcIZxBFSNUWg486Swdvxr2ktWDbaa_cj1liK3PC4e8jxPjpFvt&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmCvBjlAA79UB6kqsPoqhDtcVhgopzwym0T3LH0DiSPvg&oe=6955BC78"
+                  },
+                  "id": "1492380761835174"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1766528925,
+                  "id": "676695985397696"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$285",
+                  "amount_with_offset_in_currency": "20769",
+                  "amount": "285.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "2002 -2008 Dodge Ram 1500/2500/3500 Pocket Fender Flares",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Taylor AisinGioro",
+                  "id": "1336254309"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON",
+                  "PUBLIC_MEETUP",
+                  "DOOR_PICKUP"
+                ],
+                "product_feedback": null
+              },
+              "id": "25381077508214244:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedAdStory",
+              "story_type": "AD",
+              "story_key": "3686515896024209743",
+              "tracking": "{\"qid\":\"-7710760282943730712\",\"mf_story_key\":\"3686515896024209743\",\"commerce_rank_obj\":\"{\\\"target_id\\\":120233293550450144,\\\"target_type\\\":4,\\\"primary_position\\\":0,\\\"ranking_signature\\\":0,\\\"commerce_channel\\\":503,\\\"value\\\":0}\"}",
+              "story_attachment_style": "large_single_image_tile",
+              "story": {
+                "attachments": [
+                  {
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2F80eighty.com%2F%3Fcomet_source%3Dfb%26comet_ad_id%3D120233291592860144%26comet_placement%3DFacebook_Marketplace%26fbc_id%3D120233291042260144%26h_ad_id%3D120233291592860144%26utm_medium%3Dpaid%26utm_id%3D120233291042260144_v2_s02%26utm_content%3D120233291592860144%26utm_term%3D120233291042260144%26utm_campaign%3D120225835827000144&h=AT3FB_KY7seIttIQaTfWhAbe4O2NO5cQc1WBqAYBt4Vu49R7IRbqtUsOOnTwGYhOF11GdirGEU21Cy8e-6zaigHnP6rzS93-1Y8Z8RxEOUMbFERrO7YVjsNgYUkjEMsAi8UIukcVjboc8g",
+                    "action_links": [
+                      {
+                        "__typename": "LinkOpenActionLink",
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2F80eighty.com%2F%3Fcomet_source%3Dfb%26comet_ad_id%3D120233291592860144%26comet_placement%3DFacebook_Marketplace%26fbc_id%3D120233291042260144%26h_ad_id%3D120233291592860144%26utm_medium%3Dpaid%26utm_id%3D120233291042260144_v2_s02%26utm_content%3D120233291592860144%26utm_term%3D120233291042260144%26utm_campaign%3D120225835827000144&h=AT0xJpoqW8CpGUGrJpk11bSp94FVberWyK8ttpmKQ3wSyhU_QbzuUcpaUdyym6inYMJ2B1wMpxR8S9tqhIJfpx1Z8af9FBlbtIRMcQ-6Af9vp2isWnWfJdufF84uENkOsGC6Pt07W73MvA&s=1",
+                        "link_display": "80eighty.com",
+                        "link_title": "Dream Car Giveaway #84 - 80eighty.com",
+                        "link_style": "BUTTON_WITH_TEXT_ONLY"
+                      }
+                    ],
+                    "media": {
+                      "__typename": "GenericAttachmentMedia",
+                      "media_image": {
+                        "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.1600-4/576357673_1394055132137060_3580399520055051058_n.jpg?stp=cp0_dst-jpg_q75_s960x960_spS444_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c02adf&_nc_ohc=9bPJlvXX1AcQ7kNvwGoZ851&_nc_oc=AdnD94mFajCqMTO3dXWnM4eE0QvD5M72IgXZzJ_OpNXL-mqa0WQ6JYi7jzdUsm4_3GWh0qaAKhZDKNUGVuphC1ww&_nc_zt=1&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Aflv2vT8aMb-xWH0jWKbyWlu1Vtd6Xl07pobZEr68q8a8Q&oe=6955C5F5",
+                        "height": 960,
+                        "width": 960
+                      },
+                      "id": "1136209108675242",
+                      "is_playable": false,
+                      "square_media_image": {
+                        "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.1600-4/576357673_1394055132137060_3580399520055051058_n.jpg?stp=cp0_dst-jpg_p75x225_q75_spS444_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c02adf&_nc_ohc=9bPJlvXX1AcQ7kNvwGoZ851&_nc_oc=AdnD94mFajCqMTO3dXWnM4eE0QvD5M72IgXZzJ_OpNXL-mqa0WQ6JYi7jzdUsm4_3GWh0qaAKhZDKNUGVuphC1ww&_nc_zt=1&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afml-KtcxaytXIpDEq_bULFnKlcBeCuJ9cBSg12AnWeXVA&oe=6955C5F5",
+                        "height": 225,
+                        "width": 225
+                      }
+                    },
+                    "source": {
+                      "text": "80eighty.com"
+                    },
+                    "title_with_entities": {
+                      "text": "Dream Car Giveaway #84 - 80eighty.com"
+                    },
+                    "style_list": [
+                      "share",
+                      "story_ads_survey",
+                      "fallback"
+                    ],
+                    "cta_screen_renderer": {
+                      "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                      "action_link": {
+                        "__typename": "LinkOpenActionLink",
+                        "link_display": "80eighty.com",
+                        "link_video_endscreen_icon": {
+                          "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/ym/r/XprVWf_wVq9.png"
+                        },
+                        "title": "Learn more",
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2F80eighty.com%2F%3Fcomet_source%3Dfb%26comet_ad_id%3D120233291592860144%26comet_placement%3DFacebook_Marketplace%26fbc_id%3D120233291042260144%26h_ad_id%3D120233291592860144%26utm_medium%3Dpaid%26utm_id%3D120233291042260144_v2_s02%26utm_content%3D120233291592860144%26utm_term%3D120233291042260144%26utm_campaign%3D120225835827000144&h=AT0xJpoqW8CpGUGrJpk11bSp94FVberWyK8ttpmKQ3wSyhU_QbzuUcpaUdyym6inYMJ2B1wMpxR8S9tqhIJfpx1Z8af9FBlbtIRMcQ-6Af9vp2isWnWfJdufF84uENkOsGC6Pt07W73MvA&s=1"
+                      },
+                      "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                        "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                      },
+                      "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                        "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                      }
+                    },
+                    "subattachments": []
+                  }
+                ],
+                "id": "UzpfSTM5MTMxMzg2NzY3MzE2NDpTY2FfSTMyMDc5MjM3MTQ1MDU4MmNhMTEzNjIwOTExMjAwODU3NTphY2ExY2F7aWNhMDtzY2ExMTNjYSJBSUBBUUtqalhKaDFQUElPenBEWWxwclEzUGs5WlI1VWo3dUJ6bWo0MnI5cEpmOTI4UTJXbk5oTERCM2I5cm9fczhQQnE1SmRiUTlfa0dFY2NQTWhueXY1LXdXTE1vbDdNTlFMcWU3VzhsR2Rlc2NjMFlRIjt9",
+                "sponsored_data": {
+                  "sponsored_label_redesign_eligible": false,
+                  "ad_id": "120233293550450144",
+                  "page_id": "320792371450582"
+                },
+                "tracking": "{\"adid\":\"120233293550450144\",\"qid\":\"-7710760282943730712\",\"mf_story_key\":\"3686515896024209743\",\"is_sponsored\":1,\"ei\":\"AI\\u0040AQKjjXJh1PPIOzpDYlprQ3Pk9ZR5Uj7uBzmj42r9pJf928Q2WnNhLDB3b9ro_s8PBq5JdbQ9_kGEcPMhnyv5-wWLMol7MNQLqe7W8lGdesc0YQ\",\"top_level_post_id\":\"1136209112008575\",\"content_owner_id_new\":\"100068584898387\",\"call_to_action_type\":\"LEARN_MORE\",\"page_id\":\"320792371450582\",\"story_location\":9,\"story_attachment_style\":\"share\",\"ent_attachement_type\":\"ExternalShareAttachment\",\"page_insights\":{\"100068584898387\":{\"page_id\":\"100068584898387\",\"page_id_type\":\"page\",\"actor_id\":\"100068584898387\",\"dm\":{\"isShare\":1,\"originalPostOwnerID\":0,\"sharedMediaID\":\"1136209112008575\",\"sharedMediaOwnerID\":\"100068584898387\"},\"psn\":\"EntStatusCreationStory\",\"post_context\":{\"object_fbtype\":266,\"publish_time\":1762457774,\"story_name\":\"EntStatusCreationStory\",\"story_fbid\":[\"1136209112008575\"]},\"role\":1,\"sl\":9,\"targets\":[{\"actor_id\":\"100068584898387\",\"page_id\":\"100068584898387\",\"post_id\":\"1136209112008575\",\"role\":1,\"share_id\":0}]}},\"actrs\":\"100068584898387\",\"url_id\":\"900343890019171\",\"tds_flgs\":3}",
+                "click_tracking_linkshim_cb": "AT0F23I1tUKgeeOCx5fZUwIT2lSpm64BwFdo5luM8UuR7n8ZA_9Fi04lMCLe9WzOixMMl1YvgEz00v71t87CI2Zh3C_9Fjn9e8arOe3c0tLXPQMI0DojzO1SnPQ0q71JzYHVpPPxS7S_S9QcD5U6ur0jBIoQjB3ItEawN4RgraXJZk_I7H72iY36n2fl2Gcr_E6P7CLB7sVQYuk9Z4EIeGe5xURS9cbZrY7H9On6PJVjuVcSMNbR293-YlhPybWNKrhG1gnHu6vGCqzM72Ahq4-UQLe1eLNL3K0rfLye83lTm31STtoS0LzffFxHpTF4lM92y9QetOS_aa12p_Jq_LekXUJO8zXAdmLnaw6xZhN-La63p0No",
+                "client_view_config": {
+                  "can_delay_log_impression": true,
+                  "use_banzai_signal_imp": true,
+                  "use_banzai_vital_imp": true
+                },
+                "encrypted_click_tracking": "AZZfyAHMLGXQcpAyDj9YH0fv-l5cYj7ot1UYXozSqcqdBEfThymhZLkdHGqvUwzXL8WvBbTYZf7F73Z_ELP2aP30hMSuvFOt8qOzP3eeDjFzVi5RWXSy6ItX0OT1ejw21jZxgYCgtp9-FxpeJngFic13E79rI6oUHszQCfoniEM2TTmFLnATbPpjdvdg-FVYQX80a6Yd0ldkVvSW7B7X_yRIdTziO77Czc_9ZzVdqf-ulPPK0FhQuZnhHe-EZECIcO-7Y-A6CdDv6GqP6WzUwYo9FWuAxliMGVdk-7HJs3awqXgUd8gdhQy0Iox37I5ZNl2U94MDC4xEoHlqZBBg4f-fo2pW4MOPOBk-sytQ3VB30w",
+                "encrypted_tracking": "AZb9shwzXP_2ZLI650YLGy_wM81Xs11UKTqZZc2nQVNjbS-rx6DRDk6NdBL1KoGaDDzxWDW1ESJvuZNOTHj7rvJFn4Lk-QClO6sKtzeeKhyVDel2zGIXou2sfCegW0Krh-tGPZUVRkc8FKFX3lia4DD9pfqGtBZOJtQPGb5TmDG_MsNZhQ-Bs9WuRqXeJ4WXPscRQgKw7MRi0Np0RPQZe7rsvbvtdvV4YPrE_46rhiL-FQL4kcrQfo-07zAVeNNzdY21eR00jiiAkiVTs8EDlDcIPhkAD2QIrup_PKTKjwMvYt5AlV9tiJD0fkmNkrUvLBc53b3LwTJ23HfquXYCscgoHGvGBrtYzPPJW8zekGAiyj_tGbl_1AzdfOII8S8IKQKZYFeul5AJM2H0JDQIpRTCeAkTYVe-Gmypi7NqjuvJorXykocytukRSLfnie_BHD-vaSOo55eIsYui91-EVeKZogqPgKOApErtVEnL0jlyp9YBrN8Ec0R9s9LzhJ5EDjFNSDH1JtgwJvu-bFtO3E1Ate_7eMM7GHBCcVB_j5e_hiuQFTmrxc_0b29UdOil1CxfD9N8RGV37yuI0EKid1jOn6_CB77t9zYj54Z1uzLqw5ggqg83_Slk0oagg6WuM8iw7yJZKSYVq3ivPxL084roZhV57rBw9U-6buAOhiMao6RvO3OI6Gx6KAeA8MSdTw62hw0zmo1v6puqETboc8HbnDx01ZhOZ1Jsza5G-fpkoPfUSoLlKPL8TNFJSc7va0sHEBw43zurtGvbn29ifAEtNhF-_YaiqslPTOrEBC44HYIMPhbMoRsOTEKOfZv8wBjajnH1jhbWO33QfM-2Mmt1XzT1oXm4-wBHN0t9OmJgBHncRvEhYIoaPLWx7GQ50KscPvaOay9iGegQ_hWigamglo1QosjYO1xX1YOcHwN9sD7tZHJZyshrX5fIyZtZM1w-3zmjKADR6GLi2ltpYICPzcWTAkdyVd_nJBXwIhpIViiQQzfZ0d5A0BwSPTBAhKdaIQ9WGt95cskGX6_LgkmtiNz1Mv9OxdK5g_hqd1aTQPQZLhV5OOaXP-I2bC6KNXredbxfPRei9jO1gJ_XKNiYW3OcmSkQGUrD2_Tkc9BX1ZAupM11UzrBcYDMXS-1ZUTMG4TfbFUwaM8Rkvm_gGhk7K5TpKZr0Vtupx9uwFefemJR0S1XfU0_cnh2Fa5dNZTXZq9V9BlLqxlzJb9KMYl9Gwkxa3Yl7oZtptV2MyvrA9PnTGnBBXbXvUUKNseEXeUDxSqF46Sv8TuRtzwl7SD3DCQ6w9s_O40sLnHLJMriQTOKPY9KZDzW5tdlXMTZKlTM2SUvqq58AB8F98GCDmTeXdtY3vZyTcaDDS7hc9bCPezk03P9ST1SUu3ws31fcUN0wv_Zl7TL_S1SvjmSBeJtvvY5LuZryXtGvj7PtbGRGAGNnBkTwVny6DZ5aGqPz3abvBKMPWFyJCcpvqIHn6z2",
+                "viewability_config": [
+                  8,
+                  5
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "name": "80eighty",
+                    "logo": {
+                      "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-1/472711116_908934918069330_3028439598150664983_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Ilx_9EGWxSQQ7kNvwEfnxlZ&_nc_oc=AdkQqC-iohfKAd2XujAywpQe_JwY1GU46S4IV3HGDh5vcLy8gCle-bDkF5M32oqp8Yrv8NzvcpBLSsY1Sn7dEtJR&_nc_zt=24&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afn36RGGvb7W9nVC6hq2mfV0NYSdVluzNJ1pr9e4TOB32Q&oe=6955B70B"
+                    },
+                    "id": "100068584898387"
+                  }
+                ],
+                "transparency_ad_info": {
+                  "menu_label": "Ad info"
+                }
+              },
+              "ad_impression_client_token": "AI@AQKjjXJh1PPIOzpDYlprQ3Pk9ZR5Uj7uBzmj42r9pJf928Q2WnNhLDB3b9ro_s8PBq5JdbQ9_kGEcPMhnyv5-wWLMol7MNQLqe7W8lGdesc0YQ",
+              "ad_id_string": "120233293550450144",
+              "is_hidden": false,
+              "is_demo": false,
+              "transparency_ad_info": {
+                "should_display_ad_info": false
+              },
+              "product_item": null,
+              "id": "120233293550450144:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:EntMarketplaceFeedAdStory:496917695"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25357472647247059",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25357472647247059\",\"top_level_post_id\":\"25357472647247059\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25357472647247059,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "2258366494652175",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/599945147_1429524641876844_1373642317836072562_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=92e707&_nc_ohc=-fWlSmvd_WQQ7kNvwFcuYeS&_nc_oc=AdnTWEafr0KVBN13BL3OHlggAiC333xmFaSxPfZM80StkVmlcdsmuHLLlFuK_3qYWL7hC1Q0uwlzsOIO8bdf-_uC&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afk3ZyZhnWcFONCHExYYe-6e_kTH3HLe3DFCXddDvE9CBg&oe=69559D12"
+                  },
+                  "id": "1429524635210178"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1766260963,
+                  "id": "2258366494652175"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$120",
+                  "amount_with_offset_in_currency": "8745",
+                  "amount": "120.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "St Albert",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Saint Albert, Alberta",
+                      "id": "108291972536342"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "Dodge ram tow mirror driver side",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Jasper Edward",
+                  "id": "100086476421462"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25357472647247059:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25884260997824473",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25884260997824473\",\"top_level_post_id\":\"25884260997824473\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25884260997824473,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1516474439575303",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/598464394_25405735215746923_8840440214029736286_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=sMzH2zuc48UQ7kNvwHIWJ7u&_nc_oc=AdlAOZzpjQrMLvYllUacFXl-xDAJAqVWMQ0UqiV8H4e8sRlGzO7_ny7oby8MJVg7mHrBW07UcE_PSUXGhfelZF0s&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfnmkRRNTjBWOLeI7ylCNT-4c7An3ybd5bpdLfNYaPKcdw&oe=6955BBEF"
+                  },
+                  "id": "25405735192413592"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1765426017,
+                  "id": "1516474439575303"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$10",
+                  "amount_with_offset_in_currency": "729",
+                  "amount": "10.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "Dodge Ram (3rd gen) taillight lens (left)\n2002-2008",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Lindsey Bussey",
+                  "id": "100001392956000"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25884260997824473:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25137496995942223",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25137496995942223\",\"top_level_post_id\":\"25137496995942223\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25137496995942223,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "847802711069732",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/586941252_754836030973615_4106692002694166995_n.jpg?stp=c0.3.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=92e707&_nc_ohc=1Z2lN-TJzPcQ7kNvwH-nGvq&_nc_oc=AdkMpUDsIzRRiAdaJIBkRSlMMt0gESiRukUpdjHt9nOsYc_CTji-JMu_K-6M5l4iwARWJwDo7M5LWnz-J85TYkd6&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AflwuoVvgQwYCC3sQDqPFcWvhs17YrZ4Q1u8mgVcdQ6L4A&oe=6955C037"
+                  },
+                  "id": "754836024306949"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1764038653,
+                  "id": "847802711069732"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$60",
+                  "amount_with_offset_in_currency": "4372",
+                  "amount": "60.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "St Albert",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Saint Albert, Alberta",
+                      "id": "108291972536342"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "Dodge RAM 1500 2002-2008 MegaCab, Window Deflectors, Vent Window Visors",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Jeff Nelson",
+                  "id": "553669808"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON",
+                  "PUBLIC_MEETUP",
+                  "DOOR_PICKUP",
+                  "DOOR_DROPOFF"
+                ],
+                "product_feedback": null
+              },
+              "id": "25137496995942223:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "32530275473284519",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"32530275473284519\",\"top_level_post_id\":\"32530275473284519\",\"commerce_rank_obj\":\"{\\\"target_id\\\":32530275473284519,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "4353760558204406",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/588466174_1215662020421908_3170326558261077506_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=AA5-PWzUNJoQ7kNvwEpwpQ3&_nc_oc=AdnnnX1J5V1eYLVV2ynk0-8ToN1cYZLAUiGAGYal78plLl0WKOv4bZOtPruv3Yi4v56O5jfW6PW0i2Bk01leYhCZ&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AflpmdzynH1ZYIiuxLbjLBvjs7MCY5uC5dFtK1e0dXX9HQ&oe=6955952A"
+                  },
+                  "id": "1215662013755242"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1764114683,
+                  "id": "4353760558204406"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$400",
+                  "amount_with_offset_in_currency": "29150",
+                  "amount": "400.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Leduc",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Leduc, Alberta",
+                      "id": "108044505882598"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "Front Hitch Receiver for 2002-2008 Dodge Ram 1500",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Henry Harder",
+                  "id": "100006244902410"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "32530275473284519:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25587152317567877",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25587152317567877\",\"top_level_post_id\":\"25587152317567877\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25587152317567877,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "810934731727499",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/593419857_2058052708278360_4067058361584010863_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=YZ0s2lvF5q8Q7kNvwE8Yj-D&_nc_oc=AdkUn6dn1zeNulGcytgcpMrCen2YiU71KeUljXpWcb3at6EGOF1klX0-C1Lw1trOIjOc5HiX8_upZJq27piVtm3W&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afno9nr2ZZFr2XJrNX4VGdapIkgtF9nX7znxPTo08lZdDA&oe=6955AFB8"
+                  },
+                  "id": "2058052691611695"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1764476173,
+                  "id": "810934731727499"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$150",
+                  "amount_with_offset_in_currency": "10931",
+                  "amount": "150.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Leduc",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Leduc, Alberta",
+                      "id": "108044505882598"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "RAM 1500 torque converter",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Gunnar Giese",
+                  "id": "100055021661020"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON",
+                  "PUBLIC_MEETUP"
+                ],
+                "product_feedback": null
+              },
+              "id": "25587152317567877:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "32533802806263973",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"32533802806263973\",\"top_level_post_id\":\"32533802806263973\",\"commerce_rank_obj\":\"{\\\"target_id\\\":32533802806263973,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "3119347268248022",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/589172129_4263782330608206_7164844222223128900_n.jpg?stp=c100.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=92e707&_nc_ohc=Om9KsTiLq7wQ7kNvwEg4_Dm&_nc_oc=AdkxjQVpqrohVfTZz_r-wj5yoy8mm822SnB6ZwdV2qD5ebYljUnerFv6zyqdmrVxgDXYdqgK73xuwAcn0WZnFEC7&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmAiIU3iK5rDPwjjEC9TkteFD8RXFzlJmtB0WNs5weqgw&oe=6955A4B2"
+                  },
+                  "id": "4263782300608209"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1764019305,
+                  "id": "3119347268248022"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$500",
+                  "amount_with_offset_in_currency": "36437",
+                  "amount": "500.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Spruce Grove",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Spruce Grove, Alberta",
+                      "id": "112078855475589"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "All Terrain Scorpion 265/70 R17",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Ashley Stewart",
+                  "id": "1046823521"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON",
+                  "DOOR_PICKUP"
+                ],
+                "product_feedback": null
+              },
+              "id": "32533802806263973:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedAdStory",
+              "story_type": "AD",
+              "story_key": "-301194059311953228",
+              "tracking": "{\"qid\":\"-7710760282763147891\",\"mf_story_key\":\"-301194059311953228\",\"commerce_rank_obj\":\"{\\\"target_id\\\":120234482159560656,\\\"target_type\\\":4,\\\"primary_position\\\":0,\\\"ranking_signature\\\":0,\\\"commerce_channel\\\":503,\\\"value\\\":0}\"}",
+              "story_attachment_style": "large_carousel_tile",
+              "story": {
+                "attachments": [
+                  {
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fcollections%2Fall%3Futm_source%3Dfb%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1L9I5kVeQo8zgxHc2oBZnv70XaH7C13KB7-Am7BWgkRXpl2GmarGB1JErolzD2yDKGPtX1NDyBWS3D7AWwW7qUXu90g2vpx7B_QvPFIwob6-1qcBsB_cV6tT7D7IXkqzFuN976H0Smtg",
+                    "action_links": [
+                      {
+                        "__typename": "LinkOpenActionLink",
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fcollections%2Fall%3Futm_source%3Dfb%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1PatsdA2swgQgfmeQ9NIv1jVsRSmqdE40mg4kV0sE6aNeegjw0UyabCJw6pcb7X6MqAFrdNhhoTvYQkbcOxVM3jSSly3PrI1LLUir248BeExxJYZPdziIROV4sSoJj-jfeLzO7bgaYmQ&s=1",
+                        "link_display": "TinyBotVinyl.ca/BestSellingCarWraps",
+                        "link_title": "New {{product.name}}",
+                        "link_style": "BUTTON_WITH_TEXT_ONLY"
+                      }
+                    ],
+                    "media": {
+                      "__typename": "GenericAttachmentMedia",
+                      "media_image": {
+                        "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-1/442493673_122093009996347364_6291610564820935976_n.jpg?stp=c169.91.440.440a_dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=LoV6TjgMGIIQ7kNvwHIlrev&_nc_oc=Adk8lIR3vCwM2Huk6VEW-HcCQFgahhAYfIXpxQA2vypR-ioV8GeF2WMBV7lAaVM2m5acc371boOZHp4Q__gQ02KB&_nc_zt=24&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afnd7IJKEMKhjDBF_gE0WGhmgROtJzW9PtnflEas66scLQ&oe=6955A450",
+                        "height": 200,
+                        "width": 200
+                      },
+                      "id": "",
+                      "is_playable": false,
+                      "square_media_image": {
+                        "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-1/442493673_122093009996347364_6291610564820935976_n.jpg?stp=c169.91.440.440a_dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=LoV6TjgMGIIQ7kNvwHIlrev&_nc_oc=Adk8lIR3vCwM2Huk6VEW-HcCQFgahhAYfIXpxQA2vypR-ioV8GeF2WMBV7lAaVM2m5acc371boOZHp4Q__gQ02KB&_nc_zt=24&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afnd7IJKEMKhjDBF_gE0WGhmgROtJzW9PtnflEas66scLQ&oe=6955A450",
+                        "height": 200,
+                        "width": 200
+                      }
+                    },
+                    "source": {
+                      "text": "tinybotvinyl.ca"
+                    },
+                    "title_with_entities": {
+                      "text": "Tinybot Canada"
+                    },
+                    "style_list": [
+                      "multi_share_no_end_card",
+                      "multi_share",
+                      "fallback"
+                    ],
+                    "cta_screen_renderer": {
+                      "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                      "action_link": {
+                        "__typename": "LinkOpenActionLink",
+                        "link_display": "TinyBotVinyl.ca/BestSellingCarWraps",
+                        "link_video_endscreen_icon": {
+                          "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                        },
+                        "title": "Shop now",
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fcollections%2Fall%3Futm_source%3Dfb%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1PatsdA2swgQgfmeQ9NIv1jVsRSmqdE40mg4kV0sE6aNeegjw0UyabCJw6pcb7X6MqAFrdNhhoTvYQkbcOxVM3jSSly3PrI1LLUir248BeExxJYZPdziIROV4sSoJj-jfeLzO7bgaYmQ&s=1"
+                      },
+                      "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                        "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                      },
+                      "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                        "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                      }
+                    },
+                    "subattachments": [
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fmidnight-venom-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48732443771064%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3a-mTp5s6B_UkShhe6YsO-8Z0mpQZRqRVz_d6oDU3UVjP8YXj2YE98jP42AyeyogD23Ws3fNeb_uOHGfz-SkdKSSgxHcb3T17Nce9fJJmFEBrPz7C5BQh9lYLDwe4Nbow6dT-SAR25ng",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fmidnight-venom-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48732443771064%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2n5mdGVDitVtkizYG-QRTIMW2D82faEDt0yYvz3kS7ssBC2Rw-JuhZAi5MoM4pWXurpvA0Tjgs3j4gFnnDqFSN4iDBpFlHcTOQcjMTbANEU6UiUgmp0lz1nLilwh4WXGkaZ0UquN0goQ&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Midnight Venom Vinyl Car Wrap - Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fmidnight-venom-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48732443771064%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2n5mdGVDitVtkizYG-QRTIMW2D82faEDt0yYvz3kS7ssBC2Rw-JuhZAi5MoM4pWXurpvA0Tjgs3j4gFnnDqFSN4iDBpFlHcTOQcjMTbANEU6UiUgmp0lz1nLilwh4WXGkaZ0UquN0goQ&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/484749015_613695791501107_6720394819323352001_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9d8154&_nc_ohc=BuI8hth8b0EQ7kNvwE56kX5&_nc_oc=AdnkBc6KBK2LiM7pl4x31-g8dJrv62RsOC9KSpwWjC7F39z8H0GaqbBIRhhkvoWkDGCRRQfNIVUHPZiHbuL2Ha3i&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afk14lhK6xRMySrimv6DhcrTpZhc7IJ1cFaDHt1eiY71_g&oe=6955CB94",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "613695788167774"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Midnight Venom Vinyl Car Wrap - Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fblaze-of-glory-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48740292165816%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0N8gVbzXu7coOdjDp8a8uCAOZqqD-QHLChAc6zUSjEtuwQ-WhSjwY6CoksBZfZuyiyZA23l4WoCv8Za5WSoLT3x3vBsROafZuMqw0ZKEEvQfImKI4rbBav2gHCuY7qYRIJ9XoXijSA3Q",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fblaze-of-glory-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48740292165816%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2cu34wmdtY-pCwZb9ARWCRWMTzfGNx1BT07tFVKhbM9mc1yb51Jcs-UlG9c81is6Pm9CVKcZyvmrZg_NxV2tHsBKoi9hSBUMw4xsBd-OIvbKz1Frotgf--Ycj5Mham2Ru-nL0dA2llDQ&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Blaze of Glory Vinyl Car Wrap - Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fblaze-of-glory-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48740292165816%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2cu34wmdtY-pCwZb9ARWCRWMTzfGNx1BT07tFVKhbM9mc1yb51Jcs-UlG9c81is6Pm9CVKcZyvmrZg_NxV2tHsBKoi9hSBUMw4xsBd-OIvbKz1Frotgf--Ycj5Mham2Ru-nL0dA2llDQ&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/485916804_616289897837021_3799369728714827945_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=103&ccb=1-7&_nc_sid=9d8154&_nc_ohc=DV0nLBBQESgQ7kNvwGtbzgg&_nc_oc=Adn3AV6ol3Q9KM8FEjVYzv_3k2e1FXGZoSx0d0voZA-7iVZdUEuJbMfF7BCb3eVikLBB6fbAY-cBmrFRPtG22Fyd&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmUKTBmQK6MAVtCNV4t-bC9z2zVdcvOjB8G9eX9JVgAqQ&oe=6955BA69",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "616289894503688"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Blaze of Glory Vinyl Car Wrap - Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fblood-moon%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D51537684562104%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3X9lNN3NwqSUjMWEYEk8sFdp66pnvYNdcioxxhp5bjEqhMUyV4gD9zYVZZc_c-OR40YfOJXdox-0JiTL6kdrB_dDalebJlmQQu8wJaEgvWurN33sVmvG9O4XxaEMvrMgQ5hHS_n_iPzQ",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fblood-moon%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D51537684562104%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3bK3H95CbntMvtC6aFzbFZAnGT1YcDlrt4-KtrJmGyq-A3H5wEnYEqvOW5Q2Yg0ItnrLDLa-Y4BsKKSnFdwxkzzckwdIIQogzc7UOTW66Q2DTxpJn6xKD1CLJsiCav-Bi0wCoJ30MdOA&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Blood Moon Vinyl Wrap - Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fblood-moon%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D51537684562104%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3bK3H95CbntMvtC6aFzbFZAnGT1YcDlrt4-KtrJmGyq-A3H5wEnYEqvOW5Q2Yg0ItnrLDLa-Y4BsKKSnFdwxkzzckwdIIQogzc7UOTW66Q2DTxpJn6xKD1CLJsiCav-Bi0wCoJ30MdOA&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/522714039_1814630999483496_9161393537436393732_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9d8154&_nc_ohc=B8mccw9iQoEQ7kNvwELBWEj&_nc_oc=AdlAgTgxf46zZF6zTa7GeZrERhN090TAWQOE1wbsZC0RiaVi0I5mxo5aR0365nbzl0rk77Yu4fDDm2tn2d3jGaK0&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afn3pkr7VAXJe-BJtcEOxqimyjvnaeyBN72Ekz402w4c8Q&oe=6955A49E",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "1814630996150163"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Blood Moon Vinyl Wrap - Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fjuicy-dragon-scale-red%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43196970598584%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3AA0Ah7E_PXJMlJUTacQ-AvHAEVKu9U1j3qw0BumlAEf93yBfAwX5SCvM-f_SaSmmt-wbJbtodCUZsDr5xi_Ieik2BtgTRnJU5wvejC-WcbC9v-u_7JcmHEGaQnq6xmJG9lQri7BE-xQ",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fjuicy-dragon-scale-red%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43196970598584%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2ZY8sgbw2ksG25O-ebryPf08_xi7btyoMtcaz91eZj2EwTiQJbbmfR0hZZQQ9exZwKRfmt1Kcc2cR9LKesW4qGg-qT2Y72cTAZVGfF-HjLPyIzbFcHQ6Z1NaI6jsccEtmfXRNyiCJBMQ&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Dragon Scale Red Vinyl Car Wrap - Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fjuicy-dragon-scale-red%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43196970598584%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2ZY8sgbw2ksG25O-ebryPf08_xi7btyoMtcaz91eZj2EwTiQJbbmfR0hZZQQ9exZwKRfmt1Kcc2cR9LKesW4qGg-qT2Y72cTAZVGfF-HjLPyIzbFcHQ6Z1NaI6jsccEtmfXRNyiCJBMQ&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/484723327_1153140639415123_305638554517105883_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=107&ccb=1-7&_nc_sid=9d8154&_nc_ohc=MzM__vs_PD4Q7kNvwFwpKK9&_nc_oc=AdlnHY4C8gsWX_zgMdC8GKPl6b2TAprl9KzjcrBJ3_Sp7WFzaGpUqwLeH8Yv47Z7w33g1InTyLrBWUffKmPWOTDw&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmXenYseOXu-joAndISITE4-C1zKGk6CJuG40IVvyx3Qg&oe=6955B3FD",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "1153140636081790"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Dragon Scale Red Vinyl Car Wrap - Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fcyberpunk-pink-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48726857187512%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3Xq9CJIER6ZpBqS8LOImgDcTf61JVwqXBFK8aoMFPUvtGWFey2oYqHFQ4EwE91aEHzu_-jiWllfS5oiAx9MbVm0Z1lz1du-L9x7pLC5w_3YIeYP9c55Ra2EIyGaeUFPvTGqvOJVWwt_A",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fcyberpunk-pink-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48726857187512%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0hqeuii79BYdmNmRqWYgfb-5ZNz3IgCRo39-SyVhuVLV22ojptSalwokTseKvam1yKpuMYoz5ilUszOUPRvX9TTsKT2xJHvfCNLOgjlEDILxoc1prfI-cRyrkaCkQ14x1hAEfNWtbdAQ&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Cyberpunk Pink Vinyl Car Wrap - Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fcyberpunk-pink-vinyl-wrap%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D48726857187512%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0hqeuii79BYdmNmRqWYgfb-5ZNz3IgCRo39-SyVhuVLV22ojptSalwokTseKvam1yKpuMYoz5ilUszOUPRvX9TTsKT2xJHvfCNLOgjlEDILxoc1prfI-cRyrkaCkQ14x1hAEfNWtbdAQ&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/484791796_1830947657678882_3479014303861291844_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9d8154&_nc_ohc=zfp40dr1GN8Q7kNvwE-wA8u&_nc_oc=AdnzER25Sze1SSpW1-soUA2Gk8Jdl_S2xoE_bzgF-D38IGk1yay0q31ZKuCf0Y63LRqXMwUUngq08w6LQ_Am83yw&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AflkDaywBY4dlCWV3APM-DU_POgPKnUzMmxYW9d_w1mUpQ&oe=6955AC98",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "1830947654345549"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Cyberpunk Pink Vinyl Car Wrap - Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fsatin-forged-carbon-fiber-v2%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197110419640%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1FsAB8LpX0DjDh5RmtnOO7sSqa8jX5Qx7m7DVq8l4gjGPNUVe2hXfi_MJ3O9CHXzxEtT4boyAgSovqkJZenh5-rllkgOs-6v8pCYU9Htx4TctlZi1khueXBFpupT97FnsDkto8m09B2Q",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fsatin-forged-carbon-fiber-v2%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197110419640%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3PQ0bSMY7MgrTm_pqLAmJ60_RG1aS7ca2kX-MkzKTs-y0QvjzoIzKZQ0c01P-JQw4EbXOiGbAYISHF6DbNOLxUSKE9bOUKKvVruR_YnCDM_WWs768opz8D9JwTyre_yjkX0Aai0J7uAA&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Satin Forged Shattered Carbon Fiber Black Vinyl Car Wrap-Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fsatin-forged-carbon-fiber-v2%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197110419640%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3PQ0bSMY7MgrTm_pqLAmJ60_RG1aS7ca2kX-MkzKTs-y0QvjzoIzKZQ0c01P-JQw4EbXOiGbAYISHF6DbNOLxUSKE9bOUKKvVruR_YnCDM_WWs768opz8D9JwTyre_yjkX0Aai0J7uAA&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/485657168_675112835012083_7078012964404053641_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=110&ccb=1-7&_nc_sid=9d8154&_nc_ohc=PhKP59sZ_l8Q7kNvwFBzFk4&_nc_oc=AdlYZx3fGwNW2OusUIKT1-w1UBTpu_sBWTP4CfyOC0cT0Kt_bSZBOWLyOCIn19AmNlIUs74WW9LL_LyHDBQuNswf&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AflD_4pdtOb-jZMrEPzzQIx8aIFiI3fA2FBRwafonxMGxA&oe=6955C14B",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "675112831678750"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Satin Forged Shattered Carbon Fiber Black Vinyl Car Wrap-Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fgloss-6d-carbon-fiber%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197109174456%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1Qw4P7yg3mgu9IzZSlnElRplTe7Lvp5C8a2U5r0R_zc_7-SyoQnNwPr9tSdjH2WXrVgeHHSr1WgnZ8_hBdqU8KUe0jL-gLmG8Wg4zEMiuxQ8MBq1DDQ5qgfzOrUj3NYwMHeQWUrHsj3g",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fgloss-6d-carbon-fiber%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197109174456%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0Av3AS07CJFjTO7KSS3fOVPbZAw51_oTxmebsFjtC-K7L3e4fVh7wxXYVGHrB_nsqnRom0YzKqCffa5-Oj-4cCioTWxHSdPSyzRgqMYPGq1ncxD_1GqBkQhQQb4Xe0GQor-4TNhHnynA&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New New Upgraded 6D Carbon Fiber Black Vinyl Car Wrap - Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fgloss-6d-carbon-fiber%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197109174456%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0Av3AS07CJFjTO7KSS3fOVPbZAw51_oTxmebsFjtC-K7L3e4fVh7wxXYVGHrB_nsqnRom0YzKqCffa5-Oj-4cCioTWxHSdPSyzRgqMYPGq1ncxD_1GqBkQhQQb4Xe0GQor-4TNhHnynA&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/519619377_1434431147568551_7651012744269970973_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9d8154&_nc_ohc=QX9VK2dkDTMQ7kNvwE7mU2q&_nc_oc=AdmvR0otKNXLlY2vOjZsL1_iawh_tkISMDNB2m40_VOur23wNQMR_H7Mztt0wBIDDxhID5HlqaKNgAQRnQNPvbNx&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmIzyd3Teh8NDzKzcsW7V9Loj5QNdgkypovsolV5LRrJg&oe=6955A943",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "1434431140901885"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New New Upgraded 6D Carbon Fiber Black Vinyl Car Wrap - Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fshadow-ghost-camo-black%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197102981304%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0ZoKUiBqXohBjtaBwMYB55ZMoNXBB90eL1mAic0ICcLVcuGxKOs1oH_VaiXiEhA-3Qo7txXGfBPHC1sK8npwdolVC4qs4XxDe-q-WrhIhjDE_Sui8Iu9dD87ZVsD4q3M52P5ZSGBdDVw",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fshadow-ghost-camo-black%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197102981304%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1b6QAnJxeQMxH71DLneRGg6gdeYVr1h6vnsAsBd0TTX30KSux7LXmNck6xVwywUVF-T-dnZjE3Ql2u4gWm95yNYp6EdyUazmnLlAdonUN6cIq3jpvh731S9N8RWgNunWB2bizFfvENhQ&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Shadow Ghost Camo Black Vinyl Car Wrap-Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fshadow-ghost-camo-black%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197102981304%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT1b6QAnJxeQMxH71DLneRGg6gdeYVr1h6vnsAsBd0TTX30KSux7LXmNck6xVwywUVF-T-dnZjE3Ql2u4gWm95yNYp6EdyUazmnLlAdonUN6cIq3jpvh731S9N8RWgNunWB2bizFfvENhQ&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/485055764_1321497882436643_2333848354642551655_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=110&ccb=1-7&_nc_sid=9d8154&_nc_ohc=Fx6h-JpLSG0Q7kNvwENsdPE&_nc_oc=Adnyxyjv3ZFEey4gqu-dl9594VYRWjPMcn9eaXktTW4HaAevLB4yQ5BxQnRGKwrFV1lrMa0p0R6PEhKCBoLU2N_k&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afkl9IXY-_kNOX9jrOIrjZq28ZIrw11V9Nh7d67KNdsQwQ&oe=6955A257",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "1321497879103310"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Shadow Ghost Camo Black Vinyl Car Wrap-Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fgloss-midnight-purple%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197067886776%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3qZ42qP9Pt53CRdidh8S7O0K8nekhHiD7SRX5-gEPsWGAPUTSRxjFBqA1QJDH_4KkPCtP14zQsmjF6WOOCrhvaqjvpHcAKxqBwDf9M7edPm87gVdAhxg-_Mhh5r4qQ0ze15D3qcdrAUw",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fgloss-midnight-purple%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197067886776%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2UYvxmjN033wqanjvBlesvklMLqiYUbecK91EOQNH3d1r9r_jUhQv0y3X-5MbVMp_NEVDbic3z0VGzZDKaPy0X8rHMbEU7OhcWMNvSIwuVvwGQiYsQAbqaXWvJMNWyxZ1MxsLi440tUw&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Gloss Midnight Purple Vinyl Car Wrap-Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fgloss-midnight-purple%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197067886776%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT2UYvxmjN033wqanjvBlesvklMLqiYUbecK91EOQNH3d1r9r_jUhQv0y3X-5MbVMp_NEVDbic3z0VGzZDKaPy0X8rHMbEU7OhcWMNvSIwuVvwGQiYsQAbqaXWvJMNWyxZ1MxsLi440tUw&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/485126564_695981529617860_8898750359583623544_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9d8154&_nc_ohc=PkQOnPvem3wQ7kNvwF3SAz_&_nc_oc=AdkoyKBOZtvg3Jwnka7e5A4PgydElpMYlRrXCdyyaEeCEbmmNkW1Bo21I3PxRu17FrPlK5uRPqXvlYCtZo2MsroR&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmHesKr9mCxAHZWaBXy_GjoSDHnSWnNUCuhu_4w7aDATA&oe=6955BDD1",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "695981526284527"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Gloss Midnight Purple Vinyl Car Wrap-Tinybot Vinyl"
+                        }
+                      },
+                      {
+                        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fultra-matte-moonlight-purple%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197003989176%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT0azEKtZo8hVPql6EF1rHUaX1VJVgPp1i27qZ_CYNPUiUtVyHyqBYjSRTJ6a1ZYaxyJBlL7IpcvTYUKlw2AJvdKndZB5yYgcK7rGtb4RXHidSaLKbmh5zGe2kP6e3Aok_5GT9ZP8eaeUg",
+                        "action_links": [
+                          {
+                            "__typename": "LinkOpenActionLink",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fultra-matte-moonlight-purple%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197003989176%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3tk6A4wCcT6aswnBNbSk7ibLqFInfbHGAnZzbLqd1wwkiAsGlO3fJ5fYwwyRHpuotLtgAzkPXv7ujUdJf-1gDnK-t4dhAgbLQbwga9XCdHS-UAh5TslmmnMMoR6tf0wiQ2xHxDx-bHCQ&s=1",
+                            "link_style": "BUTTON_WITH_TEXT_ONLY",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_title": "New Ultra-Matte Moonlight Purple Vinyl Car Wrap-Tinybot Vinyl"
+                          }
+                        ],
+                        "cta_screen_renderer": {
+                          "__typename": "StoryAttachmentLinkOpenCallToActionRenderer",
+                          "action_link": {
+                            "__typename": "LinkOpenActionLink",
+                            "link_display": "tinybotvinyl.ca",
+                            "link_video_endscreen_icon": {
+                              "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/OUmDb0ZOMXb.png"
+                            },
+                            "title": "Shop now",
+                            "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinybotvinyl.ca%2Fproducts%2Fultra-matte-moonlight-purple%3Futm_content%3DCatalog%2Bad%2B-%2BCopy%26utm_source%3Dfb%26variant%3D43197003989176%26utm_medium%3Dpaid-social%26utm_campaign%3DPP%2B-%2BSales%2B-%2BAdvantage%252B%2B-%2BCreatives%2B-%2BCA%2B-%2B26%252F10%26utm_id%3D120232097846220656%26utm_term%3D120232097846850656&h=AT3tk6A4wCcT6aswnBNbSk7ibLqFInfbHGAnZzbLqd1wwkiAsGlO3fJ5fYwwyRHpuotLtgAzkPXv7ujUdJf-1gDnK-t4dhAgbLQbwga9XCdHS-UAh5TslmmnMMoR6tf0wiQ2xHxDx-bHCQ&s=1"
+                          },
+                          "__module_operation_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                          },
+                          "__module_component_CometFeedStoryVideoCTAScreenCallToAction_attachment": {
+                            "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                          }
+                        },
+                        "media": {
+                          "__typename": "DynamicFeedAdAttachmentMedia",
+                          "square_media_image": {
+                            "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t45.5328-4/484945336_524883673613143_1832961353138708015_n.jpg?stp=dst-jpg_p75x225_tt6&_nc_cat=105&ccb=1-7&_nc_sid=9d8154&_nc_ohc=I1OH5HlA1VEQ7kNvwE7QwmF&_nc_oc=AdlZ3W2WuD807nV5sIhOuVVJf_l8E0pRZFFLnLp3tK4A9PV9DS84vPQRJ_BZE3Uf9ddVOkkPW4xER7S7yIE3mtrw&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfkbU8VvFoL1WtqTXoILPWiRo5g_5G83YNDFdCic_9_7cQ&oe=6955A750",
+                            "height": 225,
+                            "width": 225
+                          },
+                          "id": "524883670279810"
+                        },
+                        "source": {
+                          "text": "tinybotvinyl.ca"
+                        },
+                        "title_with_entities": {
+                          "text": "New Ultra-Matte Moonlight Purple Vinyl Car Wrap-Tinybot Vinyl"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "id": "UzpfSTM5MTMxMzg2NzY3MzE2NDpTY2FfSTMwODc2ODQ3NTY1NzIxM2NhMTIyMTg4NzM3NjAyMzQ3MzY0OmFjYTFjYXtpY2EwO3NjYTkxY2EiQUlAQVFMaDZ1c01KTnd5bkNWdUpLUGw1aTYxOE5kM2NjaXc5SlRmWVViZER6QVpsZDJyR2JKUS12YU9iLVB2Rk85SkZibVVOOEZPSWtaaElHVzBSZGZwZXpBRTAiO30=",
+                "sponsored_data": {
+                  "sponsored_label_redesign_eligible": false,
+                  "ad_id": "120234482159560656",
+                  "page_id": "308768475657213"
+                },
+                "tracking": "{\"is_sponsored\":1,\"ei\":\"AI\\u0040AQLh6usMJNwynCVuJKPl5i618Nd3ciw9JTfYUbdDzAZld2rGbJQ-vaOb-PvFO9JFbmUN8FOIkZhIGW0RdfpezAE0\"}",
+                "click_tracking_linkshim_cb": "AT3T5GVV25AXuVG7vU41c8phE0APZRRa-5qQBtYuEfFhhH-PZLNQFpXrSwAaHhR6qEcjpAZL16lA3vDvPx-500hChOE6r3AvD013TrvSf9C1nTkUz1Ja25S7zO1P2_cg5ozIltr3wrK00TWeDkF8uQ5SSA78xKKFohgVXe1iRde7QjhCdAUdYKXE_0o0hZfUUkV9CSx5oxWvrGOskvAJYPY",
+                "client_view_config": {
+                  "can_delay_log_impression": true,
+                  "use_banzai_signal_imp": true,
+                  "use_banzai_vital_imp": true
+                },
+                "encrypted_click_tracking": "AZZ4tvABwZgsUtO7zrFbRZPpglrXSZHGRrupi0IvZKYbVb1t-gVkOSTWBG_VCagT3XgCF0N_yGZMNdRVSN9qMm2UKUzix7OVTLl3-TrtEDcyax3Mqzb9-jCMMHFZpd6quIkgry1VY5EMUzxtwOTH4sHl82WjtIrc8wDobdUI9cWU-sq-09C8w4u5goE0LwVenwk",
+                "encrypted_tracking": "AZY8Xb1VxPavtFHaNpljKxBz7tuTksCCuyAkTWOre3nUrW0GeTGmX0cm_IKyBt8grfQGXvv47-tLUoohwr4GFfUl_qnQCRtBl35RwjGZJjWsBh_kLGsOuD5p9f0QPf9hmxq14PzNFXGwlJkP_cBhX5gUZwXH-c-ajuEdykO6wwz5HK8L-8GW9wliFCzFIcnm7tEJM4lqDrL4gVrxqQ7DvLvD",
+                "viewability_config": [
+                  8,
+                  5
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "name": "Tinybot Canada",
+                    "logo": {
+                      "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-1/442493673_122093009996347364_6291610564820935976_n.jpg?stp=c169.91.440.440a_dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=LoV6TjgMGIIQ7kNvwHIlrev&_nc_oc=Adk8lIR3vCwM2Huk6VEW-HcCQFgahhAYfIXpxQA2vypR-ioV8GeF2WMBV7lAaVM2m5acc371boOZHp4Q__gQ02KB&_nc_zt=24&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afnd7IJKEMKhjDBF_gE0WGhmgROtJzW9PtnflEas66scLQ&oe=6955A450"
+                    },
+                    "id": "61560420920030"
+                  }
+                ],
+                "transparency_ad_info": {
+                  "menu_label": "Ad info"
+                }
+              },
+              "ad_impression_client_token": "AI@AQLh6usMJNwynCVuJKPl5i618Nd3ciw9JTfYUbdDzAZld2rGbJQ-vaOb-PvFO9JFbmUN8FOIkZhIGW0RdfpezAE0",
+              "ad_id_string": "120234482159560656",
+              "is_hidden": false,
+              "is_demo": false,
+              "transparency_ad_info": {
+                "should_display_ad_info": false
+              },
+              "product_item": null,
+              "id": "120234482159560656:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:EntMarketplaceFeedAdStory:496917695"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "24739059352438630",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"24739059352438630\",\"top_level_post_id\":\"24739059352438630\",\"commerce_rank_obj\":\"{\\\"target_id\\\":24739059352438630,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1400050481488151",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/597668532_747128978403061_3162619917461369773_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=kDVEAVijOswQ7kNvwEIyaNP&_nc_oc=Adnrw0ypJeIvM31Ts8DmeXLhsue_j__hbRdIk6jLaGkFcIxe1woMWcM2GX7-4OmahmnKIJK7LMMHEDxgd4zI7h8Z&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmlXoGrtwZcG_t3paZTxGyjh9LjXxa_5qtVaTspaX92ZQ&oe=6955B566"
+                  },
+                  "id": "747128961736396"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1765301691,
+                  "id": "1400050481488151"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$14,999",
+                  "amount_with_offset_in_currency": "1093044",
+                  "amount": "14999.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 Dodge RAM 2500HD QUAD CAB LARAMIE DIESEL",
+                "custom_title": "2008 Dodge ram 2500hd quad cab laramie diesel",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "343K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Jas Mann",
+                  "id": "100014278320364"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "24739059352438630:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "24495256276814396",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"24495256276814396\",\"top_level_post_id\":\"24495256276814396\",\"commerce_rank_obj\":\"{\\\"target_id\\\":24495256276814396,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "4054450854865220",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/596806104_1381016973744886_7585953753753529996_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=92e707&_nc_ohc=NUY2VcaaqFsQ7kNvwEgqUro&_nc_oc=AdnEtNtiLLLFrNqU9U3kDGuNbdZZ_SRkOFqVytGt6QVk4udryzGQPIBBZOhHJwml0OY3gPACa6ua2FpwOgILHztc&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AflFsIUlUOI5lmiuC3cgDfeVE20QIl88YquWMpPH_QxEMg&oe=6955C2A7"
+                  },
+                  "id": "1381016970411553"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1765324171,
+                  "id": "4054450854865220"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$7,400",
+                  "amount_with_offset_in_currency": "539271",
+                  "amount": "7400.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2005 Dodge Dakota",
+                "custom_title": "2005 Dodge dakota",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "212K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Russell Hollar",
+                  "id": "100000169206144"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "24495256276814396:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "24402914092716261",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"24402914092716261\",\"top_level_post_id\":\"24402914092716261\",\"commerce_rank_obj\":\"{\\\"target_id\\\":24402914092716261,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1905481056733657",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/597548314_122152445846664812_6032047211793730897_n.jpg?stp=c0.105.1730.1730a_dst-jpg_s261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=454cf4&_nc_ohc=xn4tyop3lx8Q7kNvwHb0x4S&_nc_oc=AdniwXl5Fft1vQZCOt_UYR9dy1nVx9zXyB6nhUMR0fxikQ6epgCJiHkWGjMztm_vxKXGIPb1DIjean5tUfoYzj3L&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfljapHBZD0AK2kWpVL_cP0chzjJY8zmY-TblyLY8-NZkA&oe=69559CB9"
+                  },
+                  "id": "122149803008664812"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1763409687,
+                  "id": "1905481056733657"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$29,900",
+                  "amount_with_offset_in_currency": "2178947",
+                  "amount": "29900.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Leduc",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Leduc, Alberta",
+                      "id": "108044505882598"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 Ram 2500",
+                "custom_title": "2008 Ram 2500",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "206K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": {
+                  "id": "830015723249477"
+                },
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "James Clarke",
+                  "id": "61569944363366"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "24402914092716261:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "32077077525240430",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"32077077525240430\",\"top_level_post_id\":\"32077077525240430\",\"commerce_rank_obj\":\"{\\\"target_id\\\":32077077525240430,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1585498119120011",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/588475418_10164007532335797_1741239902121161716_n.jpg?stp=dst-jpg_s261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=LG78b9SdeawQ7kNvwHKIkRL&_nc_oc=Adnm7Wmtffxjmivu2KAOPIdm1yFWylq5umBgjKS9mFAj4TIfcWJB8SZWprKelqJ4uKKE5GkwcX7Ego2HZGbUyiKK&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afnwnk88dL83N552P5EQ5AB6NM-X_G0XmRCA-b26tkwudg&oe=6955BB50"
+                  },
+                  "id": "10163868800760797"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1761416184,
+                  "id": "1585498119120011"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$5,600",
+                  "amount_with_offset_in_currency": "408097",
+                  "amount": "5600.00"
+                },
+                "strikethrough_price": {
+                  "formatted_amount": "CA$6,500",
+                  "amount": "6500.00"
+                },
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Spruce Grove",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Spruce Grove, Alberta",
+                      "id": "112078855475589"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 Dodge Ram 1500 Quad Cab",
+                "custom_title": "2008 Dodge ram 1500 quad cab",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "353K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": {
+                  "id": "25436170855966259"
+                },
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Mark White",
+                  "id": "712305796"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "32077077525240430:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "32652099824437415",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"32652099824437415\",\"top_level_post_id\":\"32652099824437415\",\"commerce_rank_obj\":\"{\\\"target_id\\\":32652099824437415,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1968368250378512",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/598066395_10240379341522577_5704448044118735971_n.jpg?stp=dst-jpg_s261x260_tt6&_nc_cat=107&ccb=1-7&_nc_sid=454cf4&_nc_ohc=vzTAItT5IgcQ7kNvwGOzoqF&_nc_oc=AdkbobNzY1X1U8XmgmLmcCVUE2AW4LSOCtWEBSeEXiya20_dU275rIDUbcSnRSa7ArfVRLxgqw2rJvSlXxI7ExPw&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afn5nZeONmfIkCKsKzBqQ7ZAx46PE96ZtdxdfFgtNoNUOQ&oe=6955A528"
+                  },
+                  "id": "10240379341322572"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1765391664,
+                  "id": "1968368250378512"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$11,800",
+                  "amount_with_offset_in_currency": "859919",
+                  "amount": "11800.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2012 Ram 1500",
+                "custom_title": "2012 Ram 1500",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "260K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Kiran Garcha",
+                  "id": "1276487016"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "32652099824437415:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "24049512361324271",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"24049512361324271\",\"top_level_post_id\":\"24049512361324271\",\"commerce_rank_obj\":\"{\\\"target_id\\\":24049512361324271,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "762356519544440",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/571251704_2746068262457217_6581982230779909707_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=rLK-4HfD_SsQ7kNvwHxpcCE&_nc_oc=Adk8PTL6FXmyjiXaqTierrK9OlV2roqtk-Sa57eEHSwB4jZc9R_0qTeDNuBac_e-7UrM2vt9Y_ey-9gaYDaXVx2w&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afl5fVA8WDwuL0cpr8PJp4zyUoLZUMBqQBLWvymf6skWqg&oe=6955B5D5"
+                  },
+                  "id": "2744704285926948"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1752521488,
+                  "id": "762356519544440"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$50",
+                  "amount_with_offset_in_currency": "3644",
+                  "amount": "50.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Strathcona County",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Strathcona, Alberta",
+                      "id": "108379972518458"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "3rd gen dodge ram levelling kit.",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Kaeden Pickering",
+                  "id": "100004942898887"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "24049512361324271:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25172515502369290",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25172515502369290\",\"top_level_post_id\":\"25172515502369290\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25172515502369290,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "826030200427728",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/597333970_10162438662177297_7307206977558357591_n.jpg?stp=c0.169.1537.1537a_dst-jpg_s261x260_tt6&_nc_cat=106&ccb=1-7&_nc_sid=454cf4&_nc_ohc=AlFisg4vArMQ7kNvwE8C8ke&_nc_oc=AdkWiNAnNKNvJV_DD1d5Uy392Be2XM7C_sfozNg5n8iKkXsW12IudR9DWN9sQyus0lZmxI-fwmnTgpUHKXlu0fnp&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfnFZPjZNMWwhnYxlWJak0oN_CpDQnpPJmUx7EQkwjfeuQ&oe=6955AE66"
+                  },
+                  "id": "10162438662072297"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1765416033,
+                  "id": "826030200427728"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$3,800",
+                  "amount_with_offset_in_currency": "276923",
+                  "amount": "3800.00"
+                },
+                "strikethrough_price": {
+                  "formatted_amount": "CA$4,200",
+                  "amount": "4200.00"
+                },
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Strathcona County",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Strathcona, Alberta",
+                      "id": "108379972518458"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2004 Mitsubishi Eclipse",
+                "custom_title": "2004 Mitsubishi eclipse",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "255K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Austin Swiniarski",
+                  "id": "523187296"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25172515502369290:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "33007794848819353",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"33007794848819353\",\"top_level_post_id\":\"33007794848819353\",\"commerce_rank_obj\":\"{\\\"target_id\\\":33007794848819353,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1931388361129717",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/587967175_10173582225880093_5077920275024662582_n.jpg?stp=c811.0.1392.1392a_dst-jpg_s261x260_tt6&_nc_cat=111&ccb=1-7&_nc_sid=454cf4&_nc_ohc=ABsX34ypcm8Q7kNvwEr0_G2&_nc_oc=AdnJvezKj5NpU6Hnp8tGk_2rJUQiIX7qKMNYf_dpuNDUPLblQaIyoW171gmH1TRQ-ykgGs776wNJGkxUbAxka9FD&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afmp0oMor2djqlHw-11tLgvgRre8n8g6C-AEMWRw-Ql6pQ&oe=6955A207"
+                  },
+                  "id": "10173344702650093"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1761417385,
+                  "id": "1931388361129717"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$17,500",
+                  "amount_with_offset_in_currency": "1275303",
+                  "amount": "17500.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 Dodge Ram",
+                "custom_title": "2008 Dodge ram",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "187K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "James Hailee Marie",
+                  "id": "576420092"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "33007794848819353:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25143467475333944",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25143467475333944\",\"top_level_post_id\":\"25143467475333944\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25143467475333944,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "898022819418146",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/586347520_1394143935393831_4114994764401362599_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=cBPE7AKXYqoQ7kNvwHy0Si7&_nc_oc=AdnrePESFdlQs8I5nFvj3gCLNAGtwJl0xOXXhhsEiLhZ9l0nEkq76OC9-gDO6NaOJB2CNwAg0qWkgnk5HauC-_pf&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfkBt17x5DbGLvyRMcs0EIP3d4KZRg8ZPvpFM-9Hel6dmA&oe=6955BDB2"
+                  },
+                  "id": "1394143915393833"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1764019311,
+                  "id": "898022819418146"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$0",
+                  "amount_with_offset_in_currency": "0",
+                  "amount": "0.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Spruce Grove",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Spruce Grove, Alberta",
+                      "id": "112078855475589"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "757715671026531",
+                "marketplace_listing_title": "FOR PARTS - 2008 DODGE RAM 1500 QuadCab",
+                "custom_title": null,
+                "custom_sub_titles_with_rendering_flags": [],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Ashley Stewart",
+                  "id": "1046823521"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25143467475333944:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "33027131880234388",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"33027131880234388\",\"top_level_post_id\":\"33027131880234388\",\"commerce_rank_obj\":\"{\\\"target_id\\\":33027131880234388,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1739101896768689",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/593328606_1800816057304326_6885168798592284897_n.jpg?stp=dst-jpg_s261x260_tt6&_nc_cat=100&ccb=1-7&_nc_sid=454cf4&_nc_ohc=uNqWVK2-ikEQ7kNvwE8Pudd&_nc_oc=AdluMuNUiNfZtLrgVV0IgXm1V9pmj0EG8MhigDlEtRMB4bG6DSMamSkHwvVUqQXRavqhCdPtKQoPs8S5KK84V0gE&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfkbrLC2PPF4g6tr-4Qx_jZuSUCADayK7Yu9t3VWlALsqg&oe=6955B4F3"
+                  },
+                  "id": "1800816050637660"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1764593486,
+                  "id": "1739101896768689"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "$11,500",
+                  "amount_with_offset_in_currency": "1150000",
+                  "amount": "11500.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Spruce Grove",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Spruce Grove, Alberta",
+                      "id": "112078855475589"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 GMC Sierra 1500 Limited Crew Cab",
+                "custom_title": "2008 GMC sierra 1500 limited crew cab",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "227K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Chewytarah Wood",
+                  "id": "100021278480443"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "33027131880234388:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25468939469372696",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25468939469372696\",\"top_level_post_id\":\"25468939469372696\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25468939469372696,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1087628696772159",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/514250510_24754925524145718_4815519747134874914_n.jpg?stp=c0.169.1537.1537a_dst-jpg_s261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=946e27&_nc_ohc=i8WKZ2VodKgQ7kNvwGm7PVD&_nc_oc=AdmitiHAJySHU0-qIWsG3vx1CegQ2ESixALxZYaqxRZ5AjtYFfFcL3ppNNlj0KCJZRk6GrM4yehpyRAcfixsm1D4&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afkj9LixtYLyF0GyL9rhU9sYaCnxXO9lzKnDpO7hH3OK2Q&oe=6955B424"
+                  },
+                  "id": "24754925510812386"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1757294362,
+                  "id": "1087628696772159"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$7,000",
+                  "amount_with_offset_in_currency": "510121",
+                  "amount": "7000.00"
+                },
+                "strikethrough_price": {
+                  "formatted_amount": "CA$8,000",
+                  "amount": "8000.00"
+                },
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 Honda Civic",
+                "custom_title": "2008 Honda civic",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "263K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Raven Anyayahan",
+                  "id": "100001648404631"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25468939469372696:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "24747122514936776",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"24747122514936776\",\"top_level_post_id\":\"24747122514936776\",\"commerce_rank_obj\":\"{\\\"target_id\\\":24747122514936776,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "846458287944233",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/569948152_10227076638736414_8237123346027449621_n.jpg?stp=c256.0.1537.1537a_dst-jpg_s261x260_tt6&_nc_cat=102&ccb=1-7&_nc_sid=946e27&_nc_ohc=eNnFsypZZR8Q7kNvwGk0bBh&_nc_oc=AdnIsgR5CJLsCGHy_OrevbnqPX5elieIcKvJS_W0Sc9Cig6liSt-l2G6NgZB5ZlJI7kSFVhZ3Q36v2Y_vJrxGS7N&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afm_WX6FEktCZE557tXNV-3_Qz33Afav6P_3PASwvAz-0w&oe=69559704"
+                  },
+                  "id": "10227076638656412"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1761167358,
+                  "id": "846458287944233"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$500",
+                  "amount_with_offset_in_currency": "36437",
+                  "amount": "500.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Edmonton, Alberta",
+                      "id": "115976748413086"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2007 Dodge 2500",
+                "custom_title": "2007 Dodge",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": ""
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Danny Keith",
+                  "id": "1669265276"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "24747122514936776:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25201501196156494",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25201501196156494\",\"top_level_post_id\":\"25201501196156494\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25201501196156494,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "800976262702984",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/593594858_10164147310880166_2631489586037604881_n.jpg?stp=c0.364.945.945a_dst-jpg_s261x260_tt6&_nc_cat=109&ccb=1-7&_nc_sid=454cf4&_nc_ohc=VuvOKjEZztYQ7kNvwGZasZS&_nc_oc=AdkSu05jDGEzLmrz9uLO_3oYL--67CQcll7dky3XdcNKiHZjaOOPLA0yzwWcuSz4kLExZBnfispB4ACHBOLKYbbj&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfkUb_QFwq665UEmEhMNgRkr_C87aT0wqZcqops3A8Wr0g&oe=6955CC36"
+                  },
+                  "id": "10164014570215166"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1762375793,
+                  "id": "800976262702984"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$35,000",
+                  "amount_with_offset_in_currency": "2550607",
+                  "amount": "35000.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Spruce Grove",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Spruce Grove, Alberta",
+                      "id": "112078855475589"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2017 Dodge Ram 2500 Crew Cab",
+                "custom_title": "2017 Dodge ram 2500 crew cab",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "265K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Travis Keats",
+                  "id": "724095165"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25201501196156494:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "32663830519929095",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"32663830519929095\",\"top_level_post_id\":\"32663830519929095\",\"commerce_rank_obj\":\"{\\\"target_id\\\":32663830519929095,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "829387476584094",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/605300546_26607335318866161_259820396617718224_n.jpg?stp=c0.169.1536.1536a_dst-jpg_s261x260_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=9mZMiW2LnO0Q7kNvwHncp9_&_nc_oc=AdmD4wO9FbZhn8Lff8ZYBGSc3FGAm-ZxXzlFv6fNUYjLr44Y2TaN6TFeAcyyuawJcIfw_8ofeSiHzsPXDkNap416&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfnLTLv1Y3khPE8zvfVpJkxWMZG8uzlzt1jAZffKvFn0Eg&oe=69559FFC"
+                  },
+                  "id": "26361849596748069"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1763855080,
+                  "id": "829387476584094"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$10,700",
+                  "amount_with_offset_in_currency": "779757",
+                  "amount": "10700.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Parkland County",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Stony Plain, Alberta",
+                      "id": "109454135747680"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2007 Dodge Ram 3500",
+                "custom_title": "2007 Dodge ram 3500",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "506K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Ivan Iliev",
+                  "id": "100000491626628"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "32663830519929095:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25271562172500141",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25271562172500141\",\"top_level_post_id\":\"25271562172500141\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25271562172500141,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1339238894420884",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/586186646_2293707967741080_7672731694816602254_n.jpg?stp=c256.0.1536.1536a_cp6_dst-jpg_s261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=UvfG2EPVDpsQ7kNvwE5Z3ZS&_nc_oc=AdlRk_0RXU2vjwt0C2GP66v8FDSBamv08sCXPbcfdnuiM514z58FiCyOK3eRsBLYf67JHUf4MrnFBlkXlY3Uqcul&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfmaQoDm2XdSwDNdtaC31LGu_z1hG3TqMIt0t_stSYRZdg&oe=6955C111"
+                  },
+                  "id": "2293707951074415"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1763273225,
+                  "id": "1339238894420884"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$43,800",
+                  "amount_with_offset_in_currency": "3191902",
+                  "amount": "43800.00"
+                },
+                "strikethrough_price": null,
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Leduc County",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Beaumont, Alberta",
+                      "id": "105511522815052"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2018 Ram 2500 Crew Cab",
+                "custom_title": "2018 Ram 2500 crew cab",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "228K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": null,
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Perfetti Miller",
+                  "id": "100013056972438"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25271562172500141:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "25272565829052605",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"25272565829052605\",\"top_level_post_id\":\"25272565829052605\",\"commerce_rank_obj\":\"{\\\"target_id\\\":25272565829052605,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "2495775280819671",
+                "primary_listing_photo": {
+                  "__typename": "Photo",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.30808-6/600517463_879048587913411_264267731443438732_n.jpg?stp=c0.363.947.947a_dst-jpg_s261x260_tt6&_nc_cat=105&ccb=1-7&_nc_sid=946e27&_nc_ohc=CZhE4PmbhmoQ7kNvwHVkJpP&_nc_oc=AdkT_RrsqLOPGFOVrQWMvZSlrfZAhbVIKWDHz8dGlwMMhlaOkmhSGc4KY1ltTV4gB7ycDww45-bdEqj95vWkN8-C&_nc_zt=23&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_Afl5a57RjYzZ058mBxkTdRxVldhKC4LlX0l-XquAoSRhew&oe=6955A290"
+                  },
+                  "id": "879048577913412"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1762723836,
+                  "id": "2495775280819671"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$2,200",
+                  "amount_with_offset_in_currency": "160324",
+                  "amount": "2200.00"
+                },
+                "strikethrough_price": {
+                  "formatted_amount": "CA$4,000",
+                  "amount": "4000.00"
+                },
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Strathcona County",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Sherwood Park, Alberta",
+                      "id": "104044399631602"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2008 Dodge Ram 1500 Regular Cab",
+                "custom_title": "2008 Dodge ram 1500 regular cab",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "215K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": {
+                  "id": "913855600976013"
+                },
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Noah Solkowski",
+                  "id": "100074248338986"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "25272565829052605:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "__typename": "MarketplaceFeedListingStoryObject",
+              "story_type": "POST",
+              "story_key": "24963801276654184",
+              "tracking": "{\"qid\":1,\"mf_story_key\":\"24963801276654184\",\"top_level_post_id\":\"24963801276654184\",\"commerce_rank_obj\":\"{\\\"target_id\\\":24963801276654184,\\\"target_type\\\":0,\\\"primary_position\\\":-1,\\\"ranking_signature\\\":0,\\\"ranking_request_id\\\":null,\\\"commerce_channel\\\":503,\\\"value\\\":0,\\\"upsell_type\\\":null,\\\"candidate_retrieval_source_map\\\":null,\\\"grouping_info\\\":null}\"}",
+              "listing": {
+                "__typename": "GroupCommerceProductItem",
+                "id": "1522876416091674",
+                "primary_listing_photo": {
+                  "__typename": "CatalogMarketplaceEnhancementTransformedImage",
+                  "image": {
+                    "uri": "https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/587044775_838435742249930_1489336226590319472_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&ccb=1-7&_nc_sid=92e707&_nc_ohc=rns0vZDZdukQ7kNvwGtC9i9&_nc_oc=AdmmjFUvGSMkgJRlHTOkngY7i6jc7FvlEZRch-A37MbTmta9CIBmhQnmW304IRP6qT3aj6KTM3yVf6rxSNZjHwp6&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=SOua-7S_srlvg16sKPgrDA&oh=00_AfkobQ4b2ZI1wDUovXr-Hn-y9aQ0QthGbOtaEU6OWThI4g&oe=6955AC5C"
+                  },
+                  "id": "838435732249931"
+                },
+                "if_gk_just_listed_tag_on_search_feed": {
+                  "__typename": "GroupCommerceProductItem",
+                  "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                  "creation_time": 1763856425,
+                  "id": "1522876416091674"
+                },
+                "__isMarketplaceListingRenderable": "GroupCommerceProductItem",
+                "listing_price": {
+                  "formatted_amount": "CA$40,000",
+                  "amount_with_offset_in_currency": "2914979",
+                  "amount": "40000.00"
+                },
+                "strikethrough_price": {
+                  "formatted_amount": "CA$43,000",
+                  "amount": "43000.00"
+                },
+                "__isMarketplaceListingWithComparablePrice": "GroupCommerceProductItem",
+                "comparable_price": null,
+                "comparable_price_type": null,
+                "location": {
+                  "reverse_geocode": {
+                    "city": "Beaumont",
+                    "state": "AB",
+                    "city_page": {
+                      "display_name": "Beaumont, Alberta",
+                      "id": "105511522815052"
+                    }
+                  }
+                },
+                "is_hidden": false,
+                "is_live": true,
+                "is_pending": false,
+                "is_sold": false,
+                "is_viewer_seller": false,
+                "min_listing_price": null,
+                "max_listing_price": null,
+                "marketplace_listing_category_id": "807311116002614",
+                "marketplace_listing_title": "2011 Dodge ram-3500 crew cab  wrecker ready for work.",
+                "custom_title": "2011 Dodge ram-3500 crew cab  wrecker ready for work.",
+                "custom_sub_titles_with_rendering_flags": [
+                  {
+                    "subtitle": "480K km"
+                  }
+                ],
+                "origin_group": null,
+                "listing_video": {
+                  "id": "815200291357761"
+                },
+                "__isMarketplaceListingWithChildListings": "GroupCommerceProductItem",
+                "parent_listing": null,
+                "marketplace_listing_seller": {
+                  "__typename": "User",
+                  "name": "Taoufik Maach",
+                  "id": "801524025"
+                },
+                "__isMarketplaceListingWithDeliveryOptions": "GroupCommerceProductItem",
+                "delivery_types": [
+                  "IN_PERSON"
+                ],
+                "product_feedback": null
+              },
+              "id": "24963801276654184:IN_MEMORY_MARKETPLACE_FEED_STORY_ENT:MarketplaceFeedStoryBase:503"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "{\"pg\":2,\"b2c\":{\"br\":\"\",\"it\":0,\"hmsr\":false,\"tbi\":0},\"c2c\":{\"br\":\"Abr2Sk_17aRt6vtgzEcUamxY-AzgXZCie7L2JeC2iiIsZpEoKPe4Vxt1yoPQi2cpbhWKClbEBik_K7jnG2cX_agM4I_FBaLlyrLEMtstI5e5AaFeA4PQa_MZ_SH6BTuzgvXK7PeKiVyhPvmlNvQ1Wg0ioP3o1sQ-ei-mU35XJxDyiFsC_UdT2DeV9YI_vkaDB0u2Nv2NXufHAT8qTpmP2TzxvFU_T_FuMZUFw7ug6MyScJBEYbxvS3xJLYbC7X2OvYMVBp09OQwoUmuhSBjfMa9BE0-rdsgwjlz8jBiDZR3wC4Vigv8ube7u0y11WQYWrFFv-qZgZzm-F-NEEn5NqWGNGMZ-ZqtOGrtaFt5izeqalaD1geyT9wL6GM9xnDafsB3DhWP8t5f_Gicu3020vsecPng6M9KTMih274QY9TZPR0C4s0KYcqdwyDWtKBeDMkIPzcYNI6jSd6nIhzvNUaCOTLYyyWhlTqIpBzleN2YMwWgDsh7ApuLX4U7zXx0DcGT0h8fVuOVnQe560VNT_WZfmWKiASKPbpJo4fs67dvgXAAHrcmMWhQfNCoZvIDoYUmefPfHYLDl4zKvDh-y0YY_gxnhhcbA3WXwKrDg7ScXvdKIwFgZmihWI7Bc-IiEex40JywiSISMZCYLVXBWBiR0d49Eauk4GwapGs5XCWdxgQ\",\"it\":43,\"rpbr\":\"\",\"rphr\":false,\"rmhr\":false},\"ads\":{\"items_since_last_ad\":5,\"items_retrieved\":45,\"ad_index\":2,\"ad_slot\":4,\"dynamic_gap_rule\":0,\"counted_organic_items\":0,\"average_organic_score\":0,\"is_dynamic_gap_rule_set\":false,\"first_organic_score\":0,\"is_dynamic_initial_gap_set\":false,\"iterated_organic_items\":0,\"top_organic_score\":0,\"feed_slice_number\":0,\"feed_retrieved_items\":0,\"ad_req_id\":496917695,\"refresh_ts\":1766841862,\"cursor_id\":17518,\"mc_id\":0,\"ad_index_e2e\":0,\"seen_ads\":{\"ad_ids\":[120233293550450144,120234482159560656],\"page_ids\":[320792371450582,308768475657213],\"campaign_ids\":[120233291042260144,120232097846850656]},\"has_ad_index_been_reset\":false,\"is_reconsideration_ads_dropped\":false},\"irr\":false,\"serp_cta\":false,\"rui\":[],\"mpid\":[],\"ubp\":null,\"ncrnd\":0,\"irsr\":false,\"bmpr\":[],\"bmpeid\":[],\"nmbmp\":false,\"skrr\":false,\"ioour\":false,\"ise\":false,\"sms_cursor\":{\"page_index\":0,\"blended_ad_index\":0,\"organics_since_last_ad\":0,\"page_organic_count\":0,\"blended_organic_index\":0,\"returned_ad_index\":0,\"total_index\":0}}",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1766841862421,
+      "time_at_flush_ms": 1766841864199
+    },
+    "is_final": true,
+    "sr_payload": {
+      "ddd": {
+        "hsrp": {
+          "hblp": {
+            "consistency": {
+              "rev": 1031491866
+            },
+            "rsrcMap": {
+              "csr:_t_0_5J": {
+                "type": "csr",
+                "src": ":1,307,6,4,9,5,36,3,7,8,13,30,10,2,17",
+                "c": 1
+              }
+            },
+            "indexUpgrades": {
+              "__hsdp": ":534,533"
+            }
+          }
+        },
+        "jsmods": {
+          "define": [
+            [
+              "cr:310",
+              [
+                "RunWWW"
+              ],
+              {
+                "__rc": [
+                  "RunWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:564",
+              [
+                "ClickIDDomainBlacklistSVConfigJSModuleWrapper"
+              ],
+              {
+                "__rc": [
+                  "ClickIDDomainBlacklistSVConfigJSModuleWrapper",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:619",
+              [
+                "setTimeoutCometLoggingPriWWW"
+              ],
+              {
+                "__rc": [
+                  "setTimeoutCometLoggingPriWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:686",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:734",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:755",
+              [
+                "warningWWW"
+              ],
+              {
+                "__rc": [
+                  "warningWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1078",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1080",
+              [
+                "unexpectedUseInComet"
+              ],
+              {
+                "__rc": [
+                  "unexpectedUseInComet",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1126",
+              [
+                "TimeSliceSham"
+              ],
+              {
+                "__rc": [
+                  "TimeSliceSham",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1293",
+              [
+                "ReactDOM.classic"
+              ],
+              {
+                "__rc": [
+                  "ReactDOM.classic",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:2866",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:3725",
+              [
+                "clearTimeoutWWWOrMobile"
+              ],
+              {
+                "__rc": [
+                  "clearTimeoutWWWOrMobile",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:4344",
+              [
+                "setTimeoutWWWOrMobile"
+              ],
+              {
+                "__rc": [
+                  "setTimeoutWWWOrMobile",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:4852",
+              [
+                "ClickIDURLBlocklistSVConfigJSModuleWrapper"
+              ],
+              {
+                "__rc": [
+                  "ClickIDURLBlocklistSVConfigJSModuleWrapper",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:6640",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7063",
+              [
+                "CometErrorBoundary.react"
+              ],
+              {
+                "__rc": [
+                  "CometErrorBoundary.react",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7162",
+              [
+                "ReactDOMCompatibilityLayer"
+              ],
+              {
+                "__rc": [
+                  "ReactDOMCompatibilityLayer",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7383",
+              [
+                "BanzaiWWW"
+              ],
+              {
+                "__rc": [
+                  "BanzaiWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7385",
+              [
+                "clearIntervalWWW"
+              ],
+              {
+                "__rc": [
+                  "clearIntervalWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7388",
+              [
+                "setIntervalWWW"
+              ],
+              {
+                "__rc": [
+                  "setIntervalWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7389",
+              [
+                "setIntervalAcrossTransitionsWWW"
+              ],
+              {
+                "__rc": [
+                  "setIntervalAcrossTransitionsWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7391",
+              [
+                "setTimeoutAcrossTransitionsWWW"
+              ],
+              {
+                "__rc": [
+                  "setTimeoutAcrossTransitionsWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:7422",
+              [
+                "ImageDownloadTrackerWWW"
+              ],
+              {
+                "__rc": [
+                  "ImageDownloadTrackerWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:8907",
+              [
+                "HeroTracingCoreConfigWWW"
+              ],
+              {
+                "__rc": [
+                  "HeroTracingCoreConfigWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:8908",
+              [
+                "HeroTracingCoreDependenciesWWW"
+              ],
+              {
+                "__rc": [
+                  "HeroTracingCoreDependenciesWWW",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:8958",
+              [
+                "FBJSON"
+              ],
+              {
+                "__rc": [
+                  "FBJSON",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:8959",
+              [
+                "DTSG"
+              ],
+              {
+                "__rc": [
+                  "DTSG",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:8960",
+              [
+                "DTSG_ASYNC"
+              ],
+              {
+                "__rc": [
+                  "DTSG_ASYNC",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:8967",
+              [
+                "clearTimeoutComet"
+              ],
+              {
+                "__rc": [
+                  "clearTimeoutComet",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:11054",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:12179",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:12180",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:13597",
+              [
+                "JSSelfProfilerLoomProvider"
+              ],
+              {
+                "__rc": [
+                  "JSSelfProfilerLoomProvider",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:13699",
+              [
+                "SSRInjectedElements"
+              ],
+              {
+                "__rc": [
+                  "SSRInjectedElements",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:15957",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:17264",
+              [
+                "RSTLogForCrash"
+              ],
+              {
+                "__rc": [
+                  "RSTLogForCrash",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:17816",
+              [
+                "FBDomainsSVConfigJSModuleWrapper"
+              ],
+              {
+                "__rc": [
+                  "FBDomainsSVConfigJSModuleWrapper",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:20362",
+              [
+                "FDSTextImpl.react"
+              ],
+              {
+                "__rc": [
+                  "FDSTextImpl.react",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:696703",
+              [
+                "JSScheduler"
+              ],
+              {
+                "__rc": [
+                  "JSScheduler",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:955714",
+              [
+                "JSSelfProfilerLoomProvider"
+              ],
+              {
+                "__rc": [
+                  "JSSelfProfilerLoomProvider",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1094133",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1108857",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1294158",
+              [
+                "React.classic"
+              ],
+              {
+                "__rc": [
+                  "React.classic",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1294159",
+              [
+                "ReactDOM.classic"
+              ],
+              {
+                "__rc": [
+                  "ReactDOM.classic",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1522191",
+              [
+                "CometLinkTrackingUtils.facebook"
+              ],
+              {
+                "__rc": [
+                  "CometLinkTrackingUtils.facebook",
+                  null
+                ]
+              },
+              -1
+            ],
+            [
+              "cr:1984081",
+              [],
+              {
+                "__rc": [
+                  null,
+                  null
+                ]
+              },
+              -1
+            ]
+          ],
+          "require": [
+            [
+              "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+            ],
+            [
+              "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+            ],
+            [
+              "emptyFunction",
+              "thatReturns",
+              [
+                "RequireDeferredReference"
+              ],
+              [
+                [
+                  {
+                    "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql"
+                  },
+                  {
+                    "__dr": "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                  }
+                ]
+              ]
+            ],
+            [
+              "ODS"
+            ],
+            [
+              "RequireDeferredReference",
+              "unblock",
+              [],
+              [
+                [
+                  "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql",
+                  "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                ],
+                "sd"
+              ]
+            ],
+            [
+              "RequireDeferredReference",
+              "unblock",
+              [],
+              [
+                [
+                  "ODS"
+                ],
+                "sd"
+              ]
+            ],
+            [
+              "RequireDeferredReference",
+              "unblock",
+              [],
+              [
+                [
+                  "CometFeedStoryVideoCTAScreenLinkOpenCallToAction_actionLink$normalization.graphql",
+                  "CometFeedStoryVideoCTAScreenLinkOpenCallToAction.react"
+                ],
+                "css"
+              ]
+            ],
+            [
+              "RequireDeferredReference",
+              "unblock",
+              [],
+              [
+                [
+                  "ODS"
+                ],
+                "css"
+              ]
+            ]
+          ],
+          "phd2_indexes": ":534,533"
+        },
+        "allResources": [
+          "csr:_t_0_5J"
+        ],
+        "tieredResources": {
+          "r": [
+            "csr:_t_0_5J"
+          ],
+          "rdfds": [],
+          "rds": []
+        }
+      }
+    }
+  }
+}

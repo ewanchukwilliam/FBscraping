@@ -1,0 +1,723 @@
+{
+  "payload": {
+    "payloads": {
+      "/marketplace/edmonton/search?query=impreza%20wrx%202008": {
+        "error": false,
+        "result": {
+          "type": "route_definition",
+          "exports": {
+            "actorID": "100080415237651",
+            "rootView": {
+              "allResources": [
+                {
+                  "__jsr": "CometMarketplaceSearchContentContainer.react"
+                },
+                {
+                  "__jsr": "CometMarketplaceSearchRoot.entrypoint"
+                },
+                {
+                  "__jsr": "CometMarketplaceSearchRoot.react"
+                }
+              ],
+              "resource": {
+                "__jsr": "CometMarketplaceSearchContentContainer.react"
+              },
+              "props": {
+                "categoryIDs": [],
+                "categoryId": null,
+                "isCrawler": false,
+                "location": {
+                  "radius": 40,
+                  "latitude": 53.54158,
+                  "longitude": -113.50129,
+                  "vanityPageId": "edmonton"
+                }
+              },
+              "entryPoint": {
+                "__dr": "CometMarketplaceSearchRoot.entrypoint"
+              }
+            },
+            "tracePolicy": "comet.marketplace.search",
+            "meta": {
+              "title": null,
+              "accessory": null,
+              "favicon": null
+            },
+            "prefetchable": true,
+            "canonicalRouteName": "comet.fbweb.CometMarketplaceSearchRoute",
+            "hostableView": {
+              "allResources": [
+                {
+                  "__jsr": "CometMarketplaceSearchContentContainer.react"
+                },
+                {
+                  "__jsr": "CometMarketplaceSearchRoot.entrypoint"
+                },
+                {
+                  "__jsr": "CometMarketplaceSearchRoot.react"
+                }
+              ],
+              "resource": {
+                "__jsr": "CometMarketplaceSearchContentContainer.react"
+              },
+              "props": {
+                "categoryIDs": [],
+                "categoryId": null,
+                "isCrawler": false,
+                "location": {
+                  "radius": 40,
+                  "latitude": 53.54158,
+                  "longitude": -113.50129,
+                  "vanityPageId": "edmonton"
+                }
+              },
+              "entryPoint": {
+                "__dr": "CometMarketplaceSearchRoot.entrypoint"
+              }
+            },
+            "tabKey": "marketplace",
+            "concurrentSafe": true,
+            "productAttributionId": "1606854132932955",
+            "canonicalUrl": null
+          },
+          "route_match_infos": [
+            {
+              "instanceParams": {
+                "availability": null,
+                "npSellerType": null,
+                "minPrice": null,
+                "maxPrice": null,
+                "catFriendly": null,
+                "carfaxHistory": null,
+                "daysSinceListed": null,
+                "dealerBranch": null,
+                "deliveryMethod": null,
+                "dogFriendly": null,
+                "isC2CListingOnly": null,
+                "isFurnished": null,
+                "headerOverride": null,
+                "maxBathrooms": null,
+                "maxBedrooms": null,
+                "maxAreaSize": null,
+                "maxMileage": null,
+                "maxRooms": null,
+                "maxYear": null,
+                "minBathrooms": null,
+                "minBedrooms": null,
+                "minAreaSize": null,
+                "minMileage": null,
+                "minMPG": null,
+                "minRooms": null,
+                "minSafetyRating": null,
+                "minSeatingCapacity": null,
+                "minYear": null,
+                "prefilledRating": null,
+                "privateRoomBathroomType": null,
+                "propertyType": null,
+                "pivots": null,
+                "sortBy": null,
+                "make": null,
+                "model": null,
+                "carType": null,
+                "topLevelVehicleType": null,
+                "transmissionType": null,
+                "rentalRoomType": null,
+                "saleType": null,
+                "sellerType": null,
+                "itemCondition": null,
+                "constructionStatus": null,
+                "contextual": null,
+                "vehicleExteriorColors": null,
+                "vehicleInteriorColors": null,
+                "query": "impreza wrx 2008",
+                "notif_id": null,
+                "notif_t": null,
+                "referral_code": null,
+                "referral_story_type": null,
+                "merchantId": null,
+                "ref": null,
+                "location_id": "edmonton",
+                "category_ids": null,
+                "category_id": null,
+                "exact": false,
+                "latitude": null,
+                "longitude": null,
+                "saved_search_id": null,
+                "radius": null,
+                "referral_ui_component": null
+              },
+              "routeConflicts": null,
+              "routeParams": {
+                "availability": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "npSellerType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minPrice": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "FLOAT"
+                },
+                "maxPrice": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "FLOAT"
+                },
+                "catFriendly": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "carfaxHistory": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "daysSinceListed": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "dealerBranch": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "deliveryMethod": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "dogFriendly": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "isC2CListingOnly": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "isFurnished": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "headerOverride": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "maxBathrooms": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "maxBedrooms": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "maxAreaSize": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "maxMileage": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "maxRooms": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "maxYear": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minBathrooms": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minBedrooms": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minAreaSize": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minMileage": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minMPG": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minRooms": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minSafetyRating": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minSeatingCapacity": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "minYear": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "prefilledRating": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "INT"
+                },
+                "privateRoomBathroomType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "propertyType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "pivots": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "sortBy": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "make": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "model": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "carType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "topLevelVehicleType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "transmissionType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "rentalRoomType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "saleType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "sellerType": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "itemCondition": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "constructionStatus": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "contextual": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING_TO_STRING_MAP"
+                },
+                "vehicleExteriorColors": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "vehicleInteriorColors": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "query": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "notif_id": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "notif_t": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "referral_code": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "referral_story_type": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "ENUM",
+                  "enumType": 1
+                },
+                "merchantId": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "ref": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "ENUM",
+                  "enumType": 1
+                },
+                "location_id": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": true,
+                  "significant": true,
+                  "coercibleType": "STRING"
+                },
+                "category_ids": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false
+                },
+                "category_id": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "exact": {
+                  "legacyNames": [],
+                  "default": false,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "BOOL"
+                },
+                "latitude": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "longitude": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "STRING"
+                },
+                "saved_search_id": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "FBID"
+                },
+                "radius": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "FLOAT"
+                },
+                "referral_ui_component": {
+                  "legacyNames": [],
+                  "default": null,
+                  "path": false,
+                  "significant": false,
+                  "coercibleType": "ENUM",
+                  "enumType": 1
+                }
+              },
+              "routePath": "/marketplace/{location_id}/search/"
+            }
+          ]
+        }
+      }
+    },
+    "sr_payload": {
+      "hsrp": {
+        "hblp": {
+          "consistency": {
+            "rev": 1031491866
+          },
+          "rsrcMap": {
+            "csr:_2_0_AQ": {
+              "type": "csr",
+              "src": ":1,542,2,61",
+              "c": 1
+            },
+            "csr:_2_1_xT": {
+              "type": "csr",
+              "src": ":542,2,1,61",
+              "c": 1
+            }
+          },
+          "compMap": {
+            "CometMarketplaceSearchRoot.entrypoint": {
+              "r": [
+                "csr:_2_1_xT"
+              ],
+              "be": 1
+            }
+          },
+          "indexUpgrades": {
+            "__hblp": ":2007",
+            "__hsdp": ":3"
+          }
+        }
+      },
+      "jsmods": {
+        "define": [
+          [
+            "cr:6640",
+            [],
+            {
+              "__rc": [
+                null,
+                null
+              ]
+            },
+            -1
+          ]
+        ],
+        "require": [
+          [
+            "emptyFunction",
+            "thatReturns",
+            [
+              "JSResourceReferenceImpl"
+            ],
+            [
+              [
+                {
+                  "__jsr": "CometMarketplaceSearchContentContainer.react"
+                },
+                {
+                  "__jsr": "CometMarketplaceSearchRoot.entrypoint"
+                },
+                {
+                  "__jsr": "CometMarketplaceSearchRoot.react"
+                }
+              ]
+            ]
+          ],
+          [
+            "CometMarketplaceSearchRoot.entrypoint"
+          ],
+          [
+            "emptyFunction",
+            "thatReturns",
+            [
+              "RequireDeferredReference"
+            ],
+            [
+              [
+                {
+                  "__dr": "CometMarketplaceSearchRoot.entrypoint"
+                },
+                {
+                  "__dr": "CometMarketplaceSearchRoot.entrypoint"
+                }
+              ]
+            ]
+          ],
+          [
+            "RequireDeferredReference",
+            "unblock",
+            [],
+            [
+              [
+                "CometMarketplaceSearchRoot.entrypoint"
+              ],
+              "sd"
+            ]
+          ],
+          [
+            "RequireDeferredReference",
+            "unblock",
+            [],
+            [
+              [
+                "CometMarketplaceSearchRoot.entrypoint"
+              ],
+              "css"
+            ]
+          ]
+        ],
+        "phd2_indexes": ":3"
+      },
+      "allResources": [
+        "csr:_2_0_AQ"
+      ],
+      "tieredResources": {
+        "r": [
+          "csr:_2_0_AQ"
+        ],
+        "rdfds": [],
+        "rds": []
+      }
+    },
+    "log_roots": [
+      "CometRouteMarketplaceSearchJSRoot"
+    ]
+  },
+  "dtsgAsyncGetToken": null,
+  "dtsgToken": null
+}
