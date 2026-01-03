@@ -1,3 +1,4 @@
 .env
 .venv
 bash/
+__pycache__/
