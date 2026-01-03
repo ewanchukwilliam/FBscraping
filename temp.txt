@@ -1,4 +1,37 @@
 
+id SERIAL PRIMARY KEY,
+batch_id UUID,
+__typename GroupCommerceProductItem
+id 1893878432008829
+primary_listing_photo {'__typename': 'CatalogMarketplaceEnhancementTransformedImage', 'image': {'uri': 'https://scontent.fyxd1-1.fna.fbcdn.net/v/t39.84726-6/606004866_1453950439606096_6209156221791569448_n.jpg?stp=c89.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=VS94aKOh3WgQ7kNvwGSZKJr&_nc_oc=AdlUXHGHWuWZabwPqX766Vt10vyyaW343fBx-o4f0kThmI98ILe9Y5K1bExy5yCN6sXPnZhNVORoifUdM9tCtYVT&_nc_zt=14&_nc_ht=scontent.fyxd1-1.fna&_nc_gid=vfIAoJDa8EQdOFRgca_wZw&oh=00_Afryla7DIpJ4S3bywMjFBBX4N5L2Vt1cctDLIOhBLPraag&oe=695F1041'}, 'id': '1453950409606099'}
+if_gk_just_listed_tag_on_search_feed {'__typename': 'GroupCommerceProductItem', '__isMarketplaceListingRenderable': 'GroupCommerceProductItem', 'creation_time': 1767206598, 'id': '1893878432008829'}
+__isMarketplaceListingRenderable GroupCommerceProductItem
+listing_price {'formatted_amount': 'CA$330', 'amount_with_offset_in_currency': '23951', 'amount': '330.00'}
+strikethrough_price None
+__isMarketplaceListingWithComparablePrice GroupCommerceProductItem
+comparable_price None
+comparable_price_type None
+location {'reverse_geocode': {'city': 'Edmonton', 'state': 'AB', 'city_page': {'display_name': 'Edmonton, Alberta', 'id': '115976748413086'}}}
+is_hidden False
+is_live True
+is_pending False
+is_sold False
+is_viewer_seller False
+min_listing_price None
+max_listing_price None
+marketplace_listing_category_id 1792291877663080
+marketplace_listing_title Nvidia RTX 3070 Founders Edition
+custom_title None
+custom_sub_titles_with_rendering_flags []
+origin_group None
+listing_video None
+__isMarketplaceListingWithChildListings GroupCommerceProductItem
+parent_listing None
+marketplace_listing_seller {'__typename': 'User', 'name': 'Jonathan Tam', 'id': '100001496712647'}
+__isMarketplaceListingWithDeliveryOptions GroupCommerceProductItem
+delivery_types ['IN_PERSON']
+product_feedback None
+
     # variables= json.loads(params['variables'])
 
     # url = "https://www.facebook.com/api/graphql/"
