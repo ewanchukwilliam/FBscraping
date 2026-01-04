@@ -2,9 +2,11 @@
 
 import os
 import uuid
-from sqlalchemy import create_engine, Column, String, Boolean, Integer
+from sqlalchemy import create_engine, Column, String, Boolean, Integer, inspect
 from sqlalchemy.orm import declarative_base, sessionmaker
 from sqlalchemy.dialects.postgresql import JSONB, UUID
+
+from api_handler import debuggingMarketplaceQuery
 
 Base = declarative_base()
 
@@ -32,6 +34,30 @@ class FacebookListing(Base):
     marketplace_listing_seller = Column(JSONB)
     delivery_types = Column(JSONB)
     product_feedback = Column(String)
+    
+    @classmethod
+    def insert_api_response(cls, api_data: dict, query: str, batch_id: uuid.UUID):
+        """
+        Insert listing data from API response
+        Automatically maps fields
+        """
+        # Get all column names
+        mapper = inspect(cls)
+        model_fields = {column.key for column in mapper.columns}
+        exclude = {'id', 'query', 'record_hash', 'batch_id', 'listing_id'}
+        filtered = {}
+        for k, v in api_data.items():
+            if k in model_fields and k not in exclude:
+                filtered[k] = v
+
+        return cls(
+            query=query,
+            record_hash=str(api_data["id"]),
+            batch_id=batch_id,
+            listing_id=str(api_data["id"]),
+            **filtered
+        )
+
 
 
 class Database:
@@ -59,30 +85,21 @@ class Database:
 
 def main():
     with Database() as db:
-        print("initializing db")
-        db.session.add(
-            FacebookListing(
-                query="Nvidia GPU 5070",
-                record_hash="123",
-                batch_id=uuid.uuid4(),
-                listing_id="abc",
-                primary_listing_photo={"abc": "123"},
-                if_gk_just_listed_tag_on_search_feed={"abc": "123"},
-                listing_price={"abc": "123"},
-                location={"abc": "123"},
-                is_hidden=False,
-                is_live=False,
-                is_pending=False,
-                is_sold=False,
-                is_viewer_seller=False,
-                marketplace_listing_category_id="abc",
-                marketplace_listing_title="abc",
-                parent_listing="abc",
-                marketplace_listing_seller={"abc": "123"},
-                delivery_types={"abc": "123"},
-                product_feedback="abc",
-            )
-        )
+        print("Fetching data...")
+        qe = debuggingMarketplaceQuery()
+        query = "Nvidia GPU 5070"
+        qe.change_query(query)
+        qe.fetchRequest()
+        print("Printing response...")
+        # qe.printResponseListingTitles()
+        batch_id = uuid.uuid4()
+
+        for listing_edge in qe.responseListingData:
+            if "listing" in listing_edge["node"]:
+                listing = listing_edge["node"]["listing"]
+                new_listing = FacebookListing.insert_api_response(listing, query=query, batch_id=batch_id)
+                db.session.add(new_listing)
+        #
         # db.session.commit()
 
 if __name__ == "__main__":
