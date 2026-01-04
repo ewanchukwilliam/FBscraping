@@ -108,13 +108,8 @@ class debuggingMarketplaceQuery:
         return response
 
     def printResponseListingTitles(self):
-        if self.responseListingData is None:
-            raise Exception(f"{datetime.datetime.now()} ERROR: Error printing response listing titles. Response listing data is None")
-
-        if self.responseListingData['node'] is None:
-            raise Exception(f"{datetime.datetime.now()} ERROR: Error printing response listing titles. response data is malformed")
-        if self.responseListingData['node']['listing'] is None:
-            raise Exception(f"{datetime.datetime.now()} ERROR: Error printing response listing titles. response data is malformed")
+        if ( self.responseListingData is None is None and len(self.responseListingData) == 0 and not self.responseListingData[0].get("node")):
+            raise Exception(f"{datetime.datetime.now()} ERROR: Error printing response listing titles. or list is len 0 or")
 
         listing_single = self.responseListingData[0]["node"]["listing"]
         for key, value in listing_single.items():
