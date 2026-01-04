@@ -96,10 +96,6 @@ class debuggingMarketplaceQuery:
         response = requests.post(self.url, headers=self.headers, data=self._raw_data)
         if response is None:
             raise Exception(f"{datetime.datetime.now()} ERROR: Error fetching data from facebook marketplace. Response is None")
-        if response.status_code != 200:
-            raise Exception(f"{datetime.datetime.now()} ERROR: Error fetching data from facebook marketplace. Response code: {response.status_code}")
-        if response.text is None:
-            raise Exception(f"{datetime.datetime.now()} WARN: Error fetching data from facebook marketplace. Response text is None")
 
         self.response = response
         self.response_text = response.text
@@ -107,10 +103,8 @@ class debuggingMarketplaceQuery:
         try:
             self.response_json = json.loads(first_json_line)
         except Exception as e:
-            raise Exception(f"{datetime.datetime.now()} ERROR: Error fetching data from facebook marketplace. Response json is malformed: {e}")
-        json_response = json.loads(first_json_line)
-        listings = json_response["data"]['marketplace_search']["feed_units"]['edges']
-        self.responseListingData = listings
+            raise Exception(f"{datetime.datetime.now()} ERROR: Error fetching data from facebook marketplace. Response json is malformed check requests is still valid: {e}")
+        self.responseListingData = self.response_json["data"]['marketplace_search']["feed_units"]['edges']
         return response
 
     def printResponseListingTitles(self):
