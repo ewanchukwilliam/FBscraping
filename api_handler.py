@@ -104,7 +104,10 @@ class debuggingMarketplaceQuery:
         self.response = response
         self.response_text = response.text
         first_json_line = self.response_text.split('\n')[0]
-        self.response_json = json.loads(first_json_line)
+        try:
+            self.response_json = json.loads(first_json_line)
+        except Exception as e:
+            raise Exception(f"{datetime.datetime.now()} ERROR: Error fetching data from facebook marketplace. Response json is malformed: {e}")
         json_response = json.loads(first_json_line)
         listings = json_response["data"]['marketplace_search']["feed_units"]['edges']
         self.responseListingData = listings
@@ -150,10 +153,11 @@ class debuggingMarketplaceQuery:
         data = parse_qs(self._raw_data)
         data = {k: v[0] for k, v in data.items()}
         self._raw_json_data = data
-        if "variables" in data:
+        try:
             self._variables = json.loads(data["variables"])
-        else:
-            print("No variables found in data")
+        except Exception as e:
+            raise Exception(f"{datetime.datetime.now()} ERROR: Error converting raw data to json. Variables is malformed")
+
 
     def _json_data_toraw(self):
         if self._variables is None:

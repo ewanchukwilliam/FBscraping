@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import datetime
 import os
 import uuid
 from sqlalchemy import create_engine, Column, String, Boolean, Integer, inspect
@@ -86,13 +87,17 @@ class Database:
 def main():
     with Database() as db:
         print("Fetching data...")
-        qe = debuggingMarketplaceQuery()
-        query = "Nvidia GPU 5070"
-        qe.change_query(query)
-        qe.fetchRequest()
-        print("Printing response...")
-        # qe.printResponseListingTitles()
-        batch_id = uuid.uuid4()
+        try:
+            qe = debuggingMarketplaceQuery()
+            query = "Nvidia GPU 5070"
+            qe.change_query(query)
+            qe.fetchRequest()
+            print("Printing response...")
+            # qe.printResponseListingTitles()
+            batch_id = uuid.uuid4()
+        except Exception as e:
+            print(f"{datetime.datetime.now()} ERROR: Error fetching data from facebook marketplace. {e}")
+            return
 
         for listing_edge in qe.responseListingData:
             if "listing" in listing_edge["node"]:
