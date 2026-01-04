@@ -14,11 +14,11 @@ Base = declarative_base()
 class FacebookListing(Base):
     __tablename__ = "facebookListingDataRecord"
 
-    id = Column(Integer, primary_key=True)
+    id = Column(Integer)
     query = Column(String(100))
     record_hash = Column(String(255), unique=True)
     batch_id = Column(UUID(as_uuid=True), nullable=False)
-    listing_id = Column(String)
+    listing_id = Column(String, primary_key=True)
     primary_listing_photo = Column(JSONB)
     if_gk_just_listed_tag_on_search_feed = Column(JSONB)
     listing_price = Column(JSONB)
@@ -96,9 +96,12 @@ def main():
 
         for listing_edge in qe.responseListingData:
             if "listing" in listing_edge["node"]:
-                listing = listing_edge["node"]["listing"]
-                new_listing = FacebookListing.insert_api_response(listing, query=query, batch_id=batch_id)
-                db.session.add(new_listing)
+                try:
+                    listing = listing_edge["node"]["listing"]
+                    new_listing = FacebookListing.insert_api_response(listing, query=query, batch_id=batch_id)
+                    db.session.merge(new_listing)
+                except Exception as e:
+                    print(f"Error: {e}")    
         #
         # db.session.commit()
 

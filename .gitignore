@@ -2,3 +2,6 @@
 .venv
 bash/
 __pycache__/
+logging/
+pgdata/
+
